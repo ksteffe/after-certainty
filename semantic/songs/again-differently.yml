@@ -1,0 +1,47 @@
+slug: again-differently
+title: 'Again, Differently'
+shortDescription: |-
+  French-house vocoder anthem: returning to the same question and the same person, but nothing identical—again, differently.
+longDescription: |-
+  Filtered disco loops and robotic call-and-response turn revisiting into method. The chorus refuses perfect repetition: same place, new light; same world, new eyes. The Discipline of Uncertainty and Curiosity Before Certainty fit the refusal to treat yesterday’s knowing as today’s total. Patterns revisability-preserves-judgment and contact-keeps-the-read-open match looking a second time without erasing what was true then. Joyful dance form carries the claim that becoming continues.
+creatorNames:
+- Kevin Steffensen
+lyricsPath: corpus/songs/again-differently.md
+lyricLanguages:
+- en
+relatedConcepts:
+- revisability
+- certainty
+- contact
+- judgment
+relatedPatterns:
+- revisability-preserves-judgment
+- contact-keeps-the-read-open
+- commitment-leaves-room
+relatedBooks:
+- the-discipline-of-uncertainty
+- curiosity-before-certainty
+- after-certainty
+recordings:
+- platform: suno
+  externalId: 25f8daf6-e6c1-496e-951b-ea8c85d8e892
+  primary: true
+  recordingTitle: 'Again, Differently'
+  createdAt: '2026-09-06T00:34:39.323Z'
+  durationSeconds: 353.84
+  modelName: chirp-auk
+  modelVersion: v4.5-all
+  task: gen
+  isRemix: false
+  styleTags: |-
+    Upbeat early-2000s French house and futuristic disco, around 118–122 BPM. Punchy four-on-the-floor drums, warm funky bass, filtered disco loops, bright analog synth chords, shimmering arpeggios, rhythmic guitar fragments, and sweeping filter builds. Male robotic/vocoder lead vocal with heavy autotune, emotionally warm despite the synthetic delivery. Verses should be simple and reflective; chorus becomes huge, euphoric, repetitive, and instantly catchy around “Again / Differently.” Use chopped vocal samples, call-and-response robot voices, brief breakdowns, and long instrumental grooves. Gradually introduce subtle musical changes each time sections repeat, reinforcing the idea that nothing returns exactly the same. Nostalgic, joyful, thoughtful, futuristic, danceable, and slightly bittersweet. Around 4 minutes.
+generation:
+  authoredPrompt: |-
+    Upbeat early-2000s French house and futuristic disco, around 118–122 BPM. Punchy four-on-the-floor drums, warm funky bass, filtered disco loops, bright analog synth chords, shimmering arpeggios, rhythmic guitar fragments, and sweeping filter builds. Male robotic/vocoder lead vocal with heavy autotune, emotionally warm despite the synthetic delivery. Verses should be simple and reflective; chorus becomes huge, euphoric, repetitive, and instantly catchy around “Again / Differently.” Use chopped vocal samples, call-and-response robot voices, brief breakdowns, and long instrumental grooves. Gradually introduce subtle musical changes each time sections repeat, reinforcing the idea that nothing returns exactly the same. Nostalgic, joyful, thoughtful, futuristic, danceable, and slightly bittersweet. Around 4 minutes.
+  authoredPromptSource: suno-playlist
+  authoredPromptRetrievedAt: '2026-09-06'
+editorialStatus: provisional
+grounding:
+  type: original_synthesis
+  note: |-
+    After Certainty song composition; lyrics and style prompt ingested from the Suno playlist snapshot without rewriting existing song entries.

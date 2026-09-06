@@ -1,0 +1,1254 @@
+{
+  "snapshotDate": "2026-09-06",
+  "source": "https://studio-api.prod.suno.com/api/playlist/ac533aa1-6688-4901-833a-ec792bb21e87/?page=1",
+  "playlist": {
+    "id": "ac533aa1-6688-4901-833a-ec792bb21e87",
+    "name": "After Certainty",
+    "description": "Songs about uncertainty, perspective, trust, meaning, absurdity and the strange ways we make sense of one another. Same ideas. Very different sounds.",
+    "num_total_results": 36,
+    "playlist_clips": [
+      {
+        "relative_index": 1.0,
+        "clip": {
+          "id": "25f8daf6-e6c1-496e-951b-ea8c85d8e892",
+          "title": "Again, Differently",
+          "created_at": "2026-09-06T00:34:39.323Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "French house, futuristic disco",
+          "metadata": {
+            "tags": "Upbeat early-2000s French house and futuristic disco, around 118–122 BPM. Punchy four-on-the-floor drums, warm funky bass, filtered disco loops, bright analog synth chords, shimmering arpeggios, rhythmic guitar fragments, and sweeping filter builds. Male robotic/vocoder lead vocal with heavy autotune, emotionally warm despite the synthetic delivery. Verses should be simple and reflective; chorus becomes huge, euphoric, repetitive, and instantly catchy around “Again / Differently.” Use chopped vocal samples, call-and-response robot voices, brief breakdowns, and long instrumental grooves. Gradually introduce subtle musical changes each time sections repeat, reinforcing the idea that nothing returns exactly the same. Nostalgic, joyful, thoughtful, futuristic, danceable, and slightly bittersweet. Around 4 minutes.",
+            "prompt": "[Intro — robotic voices]\n\nAgain.\n\nAgain.\n\nAgain—\n\nDifferently.\n\n[Verse 1]\n\nI came back to the same old question\nSame words waiting in the room\nThought I knew the shape around it\nThought I knew what you would do\n\nBut something moved inside the answer\nSomething changed behind your eyes\nMaybe nothing stays identical\nWhen you look a second time\n\n[Pre-Chorus]\n\nSame place\nNew light\n\nYou changed\nI changed\n\nSo we begin—\n\n[Chorus]\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nYou and me\nBut not exactly\nWho we used to be\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nNothing ever happens\nPerfectly\n\nAgain\nDifferently\n\n[Post-Chorus — chopped vocoder]\n\nA-again\nAgain\n\nDifferent\nDifferent\n\nDifferently\n\n[Verse 2]\n\nI remember what you told me\nI remember what I heard\nFunny how those two can wander\nFar apart inside a word\n\nEvery memory keeps moving\nEvery certainty gets old\nWhat I carried from the moment\nIsn’t everything it held\n\n[Chorus]\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nYou and me\nBut not exactly\nWho we used to be\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nNothing ever happens\nPerfectly\n\nAgain\nDifferently\n\n[Instrumental Break — filtered synth loop / chopped vocals]\n\nAgain\nAgain\n\nNot the same\n\nAgain\nAgain\n\nDifferently\n\n[Bridge — softer vocoder]\n\nIf I knew you yesterday\nI know yesterday’s you\n\nIf you knew me yesterday\nYou knew something true\n\nBut truth keeps moving with us\nEvery time we do\n\n[Build]\n\nOne more look\nOne more chance\nOne more question\nOne more dance\n\nAgain\nAgain\nAgain—\n\n[Final Chorus]\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nYou and me\nStill becoming\nWhat we’re going to be\n\nAgain\nDifferently\n\nAgain\nDifferently\n\nSame world\nNew eyes\n\nAgain\nDifferently\n\n[Outro — fragmented robotic voices]\n\nAgain\n\nDifferent\n\nAgain\n\nDifferent\n\nAgain—\n\nDifferently.\n\n[robotic whisper]\n\nUpdate complete.\n\n[beat]\n\nMaybe.",
+            "duration": 353.84,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 2.0,
+        "clip": {
+          "id": "ff3cfac3-c735-400d-956e-f948990445b2",
+          "title": "Check Your Angle",
+          "created_at": "2026-09-06T00:17:57.668Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "alternative hip-hop, electro, funk",
+          "metadata": {
+            "tags": "High-energy old-school East Coast alternative hip-hop with a gritty Brooklyn feel, fused with electro, techno, funk, punk energy, and sample-heavy production. Three distinct male rappers rapidly trade lines, interrupt each other, shout responses, and finish each other’s phrases with playful comic timing. Crunchy breakbeats, distorted bass, turntable scratches, drum-machine loops, funky guitar stabs, analog synth bleeps, robotic vocoder voices, glitch effects, chopped samples, and abrupt stop-start transitions. Fast, sarcastic, witty, chaotic, and slightly absurd rather than aggressive. Verses should feel loose and conversational; hooks should be big group shouts. A robotic voice confidently interrupts throughout and gradually becomes less certain. Raw, energetic, weird, clever, and unpredictable.",
+            "prompt": "[Intro — robot voice]\n\nROBOT:\nANALYSIS COMPLETE.\nCONFIDENCE: 99.7 PERCENT.\n\n[Rapper 1]\nOf what?\n\nROBOT:\n…YES.\n\n[Beat in]\n\n[Verse 1 — Rapper 1]\n\nI got a fact in my pocket and a theory in my shoe,\nGot a beautiful conclusion before the evidence was through.\nWalked in like, “Everybody, good news—\nI have personally discovered the correct point of view.”\n\n[Rapper 2]\nFrom where?\n\n[Rapper 1]\nRight here!\n\n[Rapper 3]\nThat explains a lot.\n\nI got charts! I got numbers!\nI got arrows going UP!\nGot a tiny little sample\nin a very fancy cup.\n\n[Rapper 2]\nHow much ocean in the cup?\n\n[Rapper 1]\nEnough!\n\n[Rapper 3]\nHow much ocean?\n\n[Rapper 1]\nSHUT UP.\n\n[Hook — all]\n\nCHECK YOUR ANGLE!\nCHECK YOUR FRAME!\nSame damn picture—\ndifferent name!\n\nYOU SEE THIS!\n\nI SEE THAT!\n\nROBOT:\nINSUFFICIENT CONTEXT.\n\n[All]\nImagine that!\n\nCheck your left!\nCheck your right!\nEverybody’s certain\ntill you change the light!\n\nCHECK YOUR ANGLE!\nDON’T GET MAD!\nYou might be right—\n\n[Rapper 3]\nAnd still miss half!\n\n[Electronic break]\n\nRIGHT!\nWRONG!\nRIGHT-RIGHT-WRONG!\nUPDATE—\nUPDATE—\nCARRY ON!\n\n[Verse 2 — rappers trading]\n\n[Rapper 2]\nI heard what you said,\nthen I heard what you meant,\nthen I heard what I thought\nthat you probably intended.\n\nBuilt a whole little courtroom\ninside of my head—\n\n[Rapper 3]\nTwelve tiny jurors?\n\n[Rapper 2]\nAnd unanimous!\n\n[Rapper 1]\nConvenient.\n\n[Rapper 2]\nIndeed.\n\nI know your motivation!\nI can see behind your eyes!\n\n[Rapper 3]\nYou can barely find your glasses.\n\n[Rapper 2]\nTHAT IS NOT THE POINT, GUYS.\n\nROBOT:\nINTENT DETECTED.\n\n[Rapper 1]\nWhose?\n\nROBOT:\nUNKNOWN.\n\n[Hook]\n\nCHECK YOUR ANGLE!\nCHECK YOUR FRAME!\nSame damn picture—\ndifferent name!\n\nYOU SEE ORDER!\n\nI SEE MESS!\n\nROBOT:\nBOTH RESPONSES PASS THE TEST.\n\nCheck your high!\nCheck your low!\nEvery clean answer\ngot somewhere it won’t go!\n\nCHECK YOUR ANGLE!\nMOVE YOUR HEAD!\nTruth ain’t dead—\n\n[Rapper 1]\nIt’s over there instead!\n\n[Breakdown — stripped beat]\n\n[Rapper 3]\nThree people.\nOne room.\nOne thing happens.\n\n[Rapper 1]\nI saw disrespect.\n\n[Rapper 2]\nI saw a mistake.\n\n[Rapper 3]\nI saw somebody\nwho needed a break.\n\n[Rapper 1]\nSo who’s right?\n\n[Rapper 2]\nMe.\n\nROBOT:\nMULTIPLE INTERPRETATIONS DETECTED.\n\n[All]\nNO KIDDING!\n\n[Beat explodes]\n\n[Final section — rapid trading]\n\n[Rapper 1]\nYou got evidence?\n\n[Rapper 2]\nPlenty!\n\n[Rapper 3]\nDifferent relevance.\n\n[Rapper 1]\nYou got confidence?\n\n[Rapper 2]\nHeavy!\n\n[Rapper 3]\nNot the same as evidence.\n\n[Rapper 2]\nDoes listening mean surrender?\n\n[All]\nNO!\n\n[Rapper 3]\nDoes changing mean you lost?\n\n[All]\nNO!\n\n[Rapper 1]\nCan two people see the same thing—\n\n[Rapper 2]\nAnd walk away different?\n\nROBOT:\nERROR.\n\n[Silence]\n\nROBOT:\nCORRECTION.\n\nYES.\n\n[Final Hook]\n\nCHECK YOUR ANGLE!\nCHECK YOUR FRAME!\nNobody standing\nin exactly the same place!\n\nYOU BRING THIS!\n\nI BRING THAT!\n\nPUT IT TOGETHER—\nWHAT DO WE GET?\n\nROBOT:\nREVISING ANSWER.\n\n[All]\nLOOK AT THAT!\n\nCheck it once!\nCheck it twice!\nCertainty’s cheap—\nperspective has a price!\n\nCHECK YOUR ANGLE!\nLEAVE SOME ROOM!\nYour perfect answer\nmight be slightly premature!\n\n[Rapper 1]\nMaybe!\n\n[Rapper 2]\nPossibly!\n\n[Rapper 3]\nCould be!\n\nROBOT:\nCONFIDENCE…\n\n[beat stops]\n\n…61 PERCENT.\n\n[All]\nNOW WE’RE TALKING!\n\n[Outro]\n\nSAME FACTS.\nDIFFERENT RELEVANCE.\n\nSAME ROOM.\nDIFFERENT EVIDENCE.\n\nLOOK AGAIN.\nUPDATE.\n\nROBOT:\nFINAL ANSWER—\n\n[All]\nNOT SO FAST!\n\n[cut]",
+            "duration": 215.0,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 3.0,
+        "clip": {
+          "id": "b1b37f81-3e3b-4970-a4ce-62128cfcff7d",
+          "title": "Before the Meaning Lands",
+          "created_at": "2026-09-06T01:03:43.605Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "trip-hop, Indian fusion",
+          "metadata": {
+            "tags": "",
+            "prompt": "\n[Intro — female, Hindi, over tanpura drone]\n\nठहरो ज़रा\nThehro zara\nWait a moment\n\nनाम मत दो\nNaam mat do\nDon’t name it yet\n\nअभी नहीं\nAbhi nahin\nNot yet\n\n[Beat enters]\n\n⸻\n\n[Verse 1 — male, English]\n\nA word leaves your mouth\nAnd changes in the air\nBy the time it reaches me\nI’ve already put something there\n\nA memory\nA warning\nA shape I recognize\n\nYou gave me half a sentence\nI supplied the other side\n\n[Female refrain]\n\nजो सुना\nJo suna\nWhat I heard\n\nजो कहा\nJo kaha\nWhat you said\n\nएक नहीं\nEk nahin\nNot the same\n\n⸻\n\n[Hook — alternating]\n\nMale:\n\nBefore the meaning lands\nBefore I call it true\n\nFemale:\n\nठहरो ज़रा\nThehro zara\nWait a moment\n\nMale:\n\nBefore I turn your silence\nInto something about you\n\nFemale:\n\nअभी नहीं\nAbhi nahin\nNot yet\n\nTogether:\n\nThere is what you said\nThere is what I heard\nAnd something moving\nIn between the words\n\nBefore the meaning lands\nLeave it open in your hands\n\n⸻\n\n[Verse 2 — female, Hindi / English]\n\nचेहरा बदला\nChehra badla\nYour face changed\n\nमैंने कारण चुन लिया\nMaine kaaran chun liya\nI chose the reason\n\nतुम चुप रहे\nTum chup rahe\nYou stayed quiet\n\nमैंने उत्तर सुन लिया\nMaine uttar sun liya\nI heard an answer\n\nMale:\n\nMaybe you were thinking\nMaybe you were tired\nMaybe all the smoke I saw\nCame from my own fire\n\nFemale:\n\nमन खाली जगह भरता है\nMan khaali jagah bharta hai\nThe mind fills empty spaces\n\nMale:\n\nAnd calls the filling evidence\n\n⸻\n\n[Hook]\n\nBefore the meaning lands\nBefore I call it true\n\nठहरो ज़रा\nThehro zara\n\nBefore I make your silence\nInto something about you\n\nअभी नहीं\nAbhi nahin\n\nThere is what you said\nThere is what I heard\nAnd something moving\nIn between the words\n\nBefore the meaning lands\nLeave it open in your hands\n\n⸻\n\n[Instrumental — sarod / sitar over heavy trip-hop break]\n\n[Chopped vocals]\n\nनाम मत दो\nNaam mat do\nDon’t name it\n\nअभी नहीं\nAbhi nahin\nNot yet\n\nनाम मत दो\nNaam mat do\n\n[Male, low]\n\nNot yet\nNot yet\n\n⸻\n\n[Verse 3 — male]\n\nThe first story comes quickly\nThe second takes its time\nThe first one feels like instinct\nThe second asks me why\n\nWhy that look meant anger\nWhy that pause meant leave\nWhy the thing I feared the most\nBecame the thing I believed\n\n[Female response]\n\nपहला अर्थ\nPehla arth\nThe first meaning\n\nअंतिम नहीं\nAntim nahin\nIs not the last\n\nMale:\n\nThe mind loves an ending\n\nFemale:\n\nसच धीरे आता है\nSach dheere aata hai\nTruth comes slowly\n\n⸻\n\n[Bridge — beat thins to tabla, bass and drone]\n\nMale:\n\nI don’t have to doubt everything\nTo question what I know\n\nFemale:\n\nहर उत्तर गलत नहीं\nHar uttar galat nahin\nNot every answer is wrong\n\nMale:\n\nI just need a little distance\nBetween the signal and the story\n\nFemale:\n\nदेखो फिर\nDekho phir\nLook again\n\nMale:\n\nHear it again\n\nFemale:\n\nपूछो फिर\nPoochho phir\nAsk again\n\nTogether:\n\nLet the meaning move\nBefore you make it stay\n\n⸻\n\n[Final Hook — layered, hypnotic]\n\nBefore the meaning lands\nBefore I call it true\n\nठहरो ज़रा\nThehro zara\n\nBefore I make your silence\nInto something about you\n\nअभी नहीं\nAbhi nahin\n\nThere is what you said\nThere is what I heard\nThere is what I brought\nTo every single word\n\nBefore the meaning lands\nBefore the story closes\n\nठहरो ज़रा\nThehro zara\n\nMaybe what I know\nIs only where it started\n\n⸻\n\n[Outro — female, repeated softly]\n\nनाम मत दो\nNaam mat do\n\nअभी नहीं\nAbhi nahin\n\nठहरो ज़रा\nThehro zara\n\n[Male, distant]\n\nBefore the meaning lands\n\n[Female]\n\nदेखो फिर\nDekho phir\nLook again",
+            "duration": 450.0,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Let’s cut a verse to shorten the song in under 7 minutes",
+            "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 4.0,
+        "clip": {
+          "id": "84c5ec6d-da90-4213-a114-27a4bd1fa556",
+          "title": "The Truth Got a Side Door",
+          "created_at": "2026-09-03T02:37:30.380Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "psychedelic soul, funk",
+          "metadata": {
+            "tags": "Early-1970s psychedelic soul and funk with a warm, slightly gritty analog sound. Deep melodic bass, dry pocket drums, wah-wah electric guitar, clavinet, Rhodes electric piano, subtle organ, hand percussion, and occasional lush strings or horn accents. Relaxed mid-tempo groove with lots of space, syncopation, and live-band looseness. Soulful male lead vocal, conversational and slightly raspy, moving between low intimate verses and light falsetto touches. Playful call-and-response backing vocals in the breakdown. The chorus should feel instantly memorable but understated, built around “The truth got a side door.” Philosophical, sly, earthy, and human rather than preachy. Vintage tape warmth, small imperfections, extended instrumental fills, and a gently psychedelic atmosphere. Avoid disco gloss, modern pop production, aggressive funk, or oversized vocal theatrics.",
+            "prompt": "\n[Verse 1]\n\nI was waiting by the front steps\nHad my good shoes shining clean\nHad a speech about the way things are\nAnd what the whole thing means\n\nI had every window measured\nEvery question in its place\nThen something slipped behind me\nAnd put a new look on your face\n\nI said, “Baby, I can explain it”\nYou said, “Maybe you should wait”\nWhile I was watching the doorway\nSomething came in through the gate\n\n[Chorus]\n\nThe truth got a side door\nIt don’t always knock\nSometimes it comes barefoot\nWhile you’re watching the clock\n\nYou can bolt up the front room\nYou can swear you know the floor\nBut just when you think you got it—\nThe truth got a side door\n\n[Verse 2]\n\nThere’s a man down at the corner\nSays he knows who’s doing what\nHe can tell you who’s the problem\nBefore the coffee’s even hot\n\nHe says, “Son, I’ve seen enough now\nI know exactly how it goes”\nBut everybody looks real simple\nWhen you’re standing too far off\n\nI’ve been that man on Monday\nBy Friday, maybe not\nFunny how one little detail\nCan rearrange the whole damn plot\n\n[Chorus]\n\nThe truth got a side door\nIt don’t always knock\nSometimes it comes laughing\nAt the key inside the lock\n\nYou can label every window\nYou can number every floor\nThen somebody says, “Come look at this”—\nThe truth got a side door\n\n[Bridge]\n\nA fact can be a flashlight\nAnd still not light the room\nYou can see the chair and table\nAnd miss the flowers coming through\n\nSo tell me what you noticed\nI’ll tell you what I missed\nMaybe neither one is foolish\nMaybe seeing works like this\n\n[Breakdown — backing vocals answering]\n\nLead:\nDid you see it?\n\nBacking:\nNot all of it.\n\nLead:\nDid you hear it?\n\nBacking:\nNot all of it.\n\nLead:\nDo you know?\n\nBacking:\nA little bit.\n\nLead:\nWell, baby—\n\nAll:\nLeave the door unlocked.\n\n[Final Chorus]\n\nThe truth got a side door\nLet it come and go\nYou don’t have to chase it\nYou don’t have to know\n\nEvery room has corners\nEvery answer leaves you more\nSo when certainty comes calling—\nCheck the side door\n\nThe truth got a side door\nYeah, the truth got a side door\n\n[Outro]\n\nYou didn’t see that?\n\nNeither did I.\n\nKeep it open, baby.\n\nKeep it open.",
+            "duration": 338.16,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 5.0,
+        "clip": {
+          "id": "fdf8353b-6440-4f2d-a2cf-515a8418cb45",
+          "title": "Don’t Let the Score Fool You",
+          "created_at": "2026-08-28T03:10:02.233Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "soul, socially conscious soul",
+          "metadata": {
+            "tags": "Warm early-1970s socially conscious soul, intimate and reflective, with a relaxed pocket, melodic bass, soft electric piano, understated guitar, gentle hand percussion, subtle orchestral strings, and lush layered male backing vocals. Lead vocal is tender, conversational, slightly weary, and emotionally searching rather than showy. The groove should feel elegant and human, gradually building in intensity while staying restrained and soulful. Philosophical lyrics delivered like a personal observation rather than a sermon.",
+            "prompt": "\n[Verse 1]\nBig bright numbers on a darkened wall\nEverybody swears they tell it all\nOne man’s name when the last shot falls\nBut somebody had to make that call\n\nSomebody moved when nobody looked\nSomebody gave more than the record book\nNow the crowd knows who they came to see\nBut that ain’t the same as history\n\n[Chorus]\nDon’t let the score fool you\nIt only knows the end\nDon’t let the lights choose\nWho carried who, my friend\n\nOh, the numbers may be true\nBut truth has more to say\nDon’t let the score fool you\nWhen the score is all they save\n\n[Verse 2]\nCamera loves a face it can remember\nOne bright spark from a whole damn ember\nSomebody held while somebody ran\nSomebody lost so another man can\n\nAnd when the story gets told downtown\nThey polish one name and wear it around\nFunny how a thousand hands disappear\nWhen one man’s holding the souvenir\n\n[Chorus]\nDon’t let the score fool you\nIt only knows the end\nDon’t let the lights choose\nWho carried who, my friend\n\nOh, the numbers may be true\nBut truth has more to say\nDon’t let the score fool you\nWhen the score is all they save\n\n[Verse 3]\nWinning makes a hard man look wise\nPuts a little mercy in everybody’s eyes\nYesterday cruel, today intense\nHang up a trophy and call it evidence\n\nThey’ll say the shouting made you strong\nSay it must’ve worked if you came out on top\nBut a victory don’t settle what was right\nSometimes winning only changes the light\n\n[Bridge]\nRun it back slow\nShow me every frame\nYou can see what happened\nStill gotta name the game\n\nWhistle says it’s over\nDoesn’t mean they knew\nSometimes you need an ending\nBefore you know what’s true\n\n[Breakdown]\n(Don’t let it fool you)\nNo, no, no\n\n(Don’t let it fool you)\nThat number ain’t the whole story\n\n(Don’t let it fool you)\nSome things don’t fit on the board\n\n[Final Chorus]\nDon’t let the score fool you\nIt only knows the end\nDon’t let the crowd choose\nYour villains and your friends\n\nEvery number tells the truth\nAbout the thing it came to weigh\nDon’t let the score fool you\nThere’s always more to say\n\n[Outro]\nBig bright numbers fade away\nCrowd goes home at end of day\nWhat really happened?\nWell…\n\nThat takes a little longer to say.",
+            "duration": 304.8,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 6.0,
+        "clip": {
+          "id": "09f83469-236a-4fae-9195-f524d42f010a",
+          "title": "Same Street, Different City",
+          "created_at": "2026-08-29T01:49:34.311Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "1960s Brazilian bossa nova, lo-fi, bilingual duet, warm, wistful",
+          "metadata": {
+            "tags": "1960s Brazilian bossa nova duet with a warm lo-fi twist. Intimate male vocalist singing softly in Portuguese and airy female vocalist singing in English, trading lines conversationally before joining in close harmony. Gentle nylon-string guitar, upright bass, brushed drums, light samba percussion, subtle piano and vibraphone. Relaxed syncopated groove, romantic but understated, slightly wistful and playful. Vintage tape warmth, soft vinyl crackle, muted room ambience, lightly filtered percussion, and a faint dusty lo-fi beat underneath the acoustic rhythm. Effortless, elegant, late-night café atmosphere—never glossy, dramatic, or over-sung.",
+            "prompt": "Eu vi a chuva nas janelas\nO bonde lento, o fim da tarde\nUm homem fechando a padaria\nE a rua ficando azul\n\nVocê passou sem dizer nada\nCom os olhos longe daqui\nEu pensei: que cidade triste\nMas você sorriu para mim\n\nI saw the light along the awnings\nA radio behind a door\nTwo children running through the puddles\nLike they had somewhere to go\n\nYou stood beneath the faded doorway\nWatching clouds above the square\nI thought, what a lovely evening\nAnd wondered why you looked so far away\n\nMesma rua\n\nDifferent city\n\nMesma chuva\n\nDifferent sky\n\nEu vi a noite chegando\n\nI saw the evening come alive\n\nSame street\nDifferent city\nFor a little while\n\nEu ouvi passos apressados\nUma janela se fechar\nO cheiro forte do café\nE alguém chamando de um andar\n\nVocê parou perto da esquina\nComo quem queria ficar\nEu pensei: ela vai embora\nSem nem saber onde chegar\n\nI heard a record from an upstairs room\nSomeone laughing down the hall\nThe little café setting tables\nThough the rain had started to fall\n\nYou came and stood beside me\nLike you’d been waiting there all day\nI thought, maybe he’s arriving\nYou thought I was going away\n\nMesma rua\n\nDifferent city\n\nMesma chuva\n\nDifferent sky\n\nEu vi a noite chegando\n\nI saw the evening come alive\n\nSame street\nDifferent city\nFor a little while\n\nTalvez eu veja o que você não vê\n\nMaybe you hear what I don’t hear\n\nTalvez a rua mude de cor\n\nDepending on where we stand\n\nNão preciso ver tudo\n\nYou don’t have to see it my way\n\nJust stay here\nLong enough\nTo look again\n\nAgora a chuva nas janelas\n\nNow the lights are coming on\n\nA padaria já fechou\n\nAnd the children have gone home\n\nMas quando olho para a esquina\n\nWhen I look across the street\n\nJá não parece tão sozinho\n\nIt doesn’t look the same to me\n\nMesma rua\n\nDifferent city\n\nMesmo mundo\n\nDifferent eyes\n\nEu vejo um pouco do seu lado\n\nI can almost see through yours tonight\n\nSame street\nDifferent city\n\nSame rain\nDifferent light\n\nSame street\nDifferent city\n\nStay a little while",
+            "duration": 333.24,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 7.0,
+        "clip": {
+          "id": "b9dfaa4e-3c9d-44af-97b3-ff2191abcc0c",
+          "title": "Leave a Little Room",
+          "created_at": "2026-08-27T03:44:42.097Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "jazz, torch ballad",
+          "metadata": {
+            "tags": "1950s late-night intimate jazz torch ballad, very slow and spacious, smoky low female contralto vocal with restrained phrasing and almost conversational delivery. Sparse hollow-body jazz guitar as the main accompaniment, playing warm chord voicings, subtle melodic fills, and short responses between vocal lines. Upright bass used sparingly, delicate brushed drums entering only when needed. Small after-hours club atmosphere, close-miked and intimate, lots of silence and breathing room. Sophisticated jazz harmony, understated melancholy, romantic but emotionally ambiguous rather than sentimental. The singer sounds composed on the surface while quietly carrying regret, tenderness, and uncertainty underneath. Avoid big-band arrangements, dramatic crescendos, modern pop production, vocal runs, or theatrical belting.",
+            "prompt": "\nA1\n\nYou heard the sigh before the sentence,\nI saw the shadow cross your face.\nAnd in the hush between us, darling,\nwe put a story in its place.\n\nSo leave a little room for maybe,\nleave a little room for me.\nThe heart is quick to close a doorway\nbefore the eyes can learn to see.\n\nA2\n\nYou know the words I’ve used before you,\nI know the ones that made you leave.\nTonight they wear old clothes around them,\nand we believe what we believe.\n\nSo leave a little room for silence,\nnot the kind that turns away—\njust enough to keep one question\nfrom becoming yesterday.\n\nB\n\nWe bring every old goodbye\nto every new goodnight.\nA half-remembered hurt\ncan make a whisper sound just right\n\nfor the story\nwe were ready to believe.\n\nBut darling, stay a moment\nbefore you leave.\n\nA3\n\nLet me be more than what you noticed,\nmore than what you feared I meant.\nSome meanings move while we are talking;\nsome arrive when words are spent.\n\nSo leave a little room between us—\nnot for distance, not for doubt.\nJust enough for what I meant, dear,\nto find its own way out.\n\nTag\n\nLeave a little room, darling,\nbefore you call it true.",
+            "duration": 307.96,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 8.0,
+        "clip": {
+          "id": "dc43b18d-2e95-4db2-bd1c-ccd081b68c65",
+          "title": "What I Thought You Meant",
+          "created_at": "2026-09-03T00:20:48.076Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "alternative R&B, sensual",
+          "metadata": {
+            "tags": "Modern sensual alternative R&B, 86–90 BPM, intimate late-night atmosphere. Warm electric piano, deep smooth sub bass, soft atmospheric synth pads, muted electric guitar, tight modern R&B drums, crisp understated hi-hats, subtle vocal chops, and lots of negative space. Breathy close-miked lead vocal with controlled emotion, soft falsetto touches, layered chorus harmonies, and tasteful restrained runs. Slow-burning, seductive, vulnerable, and emotionally uncertain rather than explicit. Minimal intro → sparse verse → rising pre-chorus → lush melodic chorus → stronger second verse → atmospheric bridge → fuller final chorus → intimate stripped outro. Warm analog character, wide stereo image, deep low end, clean polished mix, memorable effortless chorus.",
+            "prompt": "\n[Intro]\n\nYou didn’t say it\nI felt it move\nIn the dark between me and you\n\n[Verse 1]\n\nYou turned away when I touched your shoulder\nThen leaned back into my hand\nYour breath caught somewhere near my collar\nAnd I thought I understood\n\nYour eyes said stay\nYour mouth said nothing\nI made a promise out of that\n\nFunny how close I was\nTo what I thought you meant\n\n[Pre-Chorus]\n\nMaybe I heard an old goodbye\nIn the way you said my name\nMaybe I was reading every shiver\nLike it had something to explain\n\n[Chorus]\n\nTell me what you meant\nNot what I thought you meant\nCome a little closer\nLet me hear it from your lips\n\nYour body’s talking softly\nBut I don’t want to pretend\nI know the difference\nBetween wanting me\nAnd what I thought you meant\n\n[Verse 2]\n\nYou said, “I’m tired”\nWith your leg against mine\nYour fingers tracing circles on my skin\n\nI called your silence hesitation\nThen you pulled me closer in\n\nMaybe I was looking for an ending\nWhile you were asking me to stay\n\n[Bridge]\n\nMaybe I was right\nMaybe I was wrong\nMaybe I don’t need to know\nBefore the night is gone\n\nDon’t give me certainty\nJust tell me what is true\nOr whisper it so close\nI have to hear it from you\n\n[Final Chorus]\n\nTell me what you meant\nNot what I thought you meant\nCome a little closer\nLet me feel the words begin\n\nI was so sure I understood\nI forgot to let you in\n\nStay right here\nSay it again\nLet me learn the difference\nBetween you\nAnd what I thought you meant\n\n[Outro]\n\nYour mouth said nothing\nYour body moved\n\nCome closer\n\nTell me",
+            "duration": 231.08,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 9.0,
+        "clip": {
+          "id": "5e9225e0-0d2a-4cb3-bbf1-7e08f70caa91",
+          "title": "Different Evidence",
+          "created_at": "2026-08-27T01:08:04.970Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "alternative hip-hop, UK garage, trip-hop",
+          "metadata": {
+            "tags": "Moody British alternative hip-hop with a conversational spoken-word male vocal, dry understated delivery, intelligent lyrical phrasing, and a slightly weary sense of humor. Mid-tempo beat with deep warm bass, crisp UK garage-influenced drums, dusty breakbeats, subtle vinyl texture, sparse Rhodes or piano, atmospheric guitar swells, and distant ambient synths. Verses should feel intimate, observational, and almost like someone thinking out loud over the beat. Natural UK cadence, occasional half-spoken phrasing, everyday language, understated wit, no exaggerated accent. The chorus should open up melodically with layered backing vocals but remain restrained, melancholic, and reflective rather than anthemic. Alternative Brit-hop meets downtempo trip-hop and atmospheric British indie rock, with a nocturnal, cinematic feel and a gradual emotional build. Avoid trap hi-hats, glossy pop production, aggressive grime delivery, obvious boom-bap nostalgia, or upbeat funkiness.",
+            "prompt": "\n[Verse 1]\n\nCourse I trust the ones who sound like me,\nsame references, same vocabulary,\nsame little pause when the room gets tense,\nsame jokes, same taste, same common sense.\n\nMakes everything quicker.\nMakes everything clean.\nNobody has to explain what they mean.\n\nAnd that feels like knowing.\nThat feels like proof.\n\nFunny how comfort can dress up as truth.\n\nWe build little worlds where the walls disappear,\n’cause everyone inside sees roughly from here.\nThen somebody walks in from somewhere else\nand notices the thing we’ve been missing ourselves.\n\nThat’s when it gets awkward.\n\nGood.\n\nMaybe awkward is evidence too.\n\n[Hook]\n\nIf you only trust your reflection,\nthat ain’t trust, that’s preference.\n\nSame world, different evidence.\nSame facts, different relevance.\n\nYou don’t have to take my side,\nI don’t have to borrow yours.\n\nJust leave a little room for the possibility\nyou haven’t seen it all.\n\n[Verse 2]\n\nWe love a word everybody can share.\n\nSafety.\nFreedom.\nFair.\nCare.\n\nLovely.\n\nTill you ask what sits underneath,\nwhat somebody means when they say “what we need.”\n\nOne person hears shelter.\nOne hears control.\nOne sees the pieces.\nOne sees the whole.\n\nOr thinks they do.\n\nThat’s usually where it starts.\n\nEvery summary cuts something out.\nEvery bright line leaves something dark.\n\nDoesn’t make the summary useless.\nDoesn’t make the speaker wrong.\n\nJust means reality’s usually wider\nthan the version that fits in the song.\n\nAnd yeah, irony noted.\n\nCarry on.\n\n[Hook]\n\nIf you only trust your reflection,\nthat ain’t trust, that’s preference.\n\nSame world, different evidence.\nSame facts, different relevance.\n\nYou don’t have to take my side,\nI don’t have to borrow yours.\n\nJust leave a little room for the possibility\nyou haven’t seen it all.\n\n[Verse 3]\n\nListening isn’t surrender.\nUnderstanding isn’t losing.\n\nYou can know why I chose this\nand still hate what I’m choosing.\n\nYou can tell me what you’re guarding,\nI can tell you what I fear.\nNeither one becomes the other\njust because we stayed in the room long enough to hear.\n\nThat’s the bit we keep skipping.\n\nStraight from disagreement to defence.\nLike understanding someone’s reasons\nmeans you’ve forfeited your sense.\n\nNah.\n\nKeep your judgement.\n\nJust improve what it’s judging.\n\nIf another pair of eyes can show you something\nyou were never in position to see,\nwhy would you call that weakness?\n\nThat’s additional data for free.\n\n[Bridge]\n\nMaybe trust isn’t:\n\nI think you’re right.\n\nMaybe trust is:\n\nYou might see something I can’t.\n\nMaybe wisdom isn’t finding\nthe person with the perfect view.\n\nMaybe it’s knowing every window\nhas a bit it can’t look through.\n\n[Verse 4]\n\nDifference makes everything slower.\n\nThere.\nI said it.\n\nMore translation.\nMore friction.\nMore chances somebody complicates the edit.\n\nEasy rooms move fast.\nEveryone knows the script.\n\nHard rooms stop mid-sentence\nwhen somebody says,\n\n“Wait.\nYou’ve missed a bit.”\n\nThat can wreck a lovely plan.\n\nIt can also save one.\n\nDepends whether disagreement’s treated\nlike an attack or information.\n\nBecause sometimes the person making things difficult\nis the only one noticing the difficulty.\n\nSometimes the voice that ruins consensus\nis the reason consensus gets smarter.\n\nNot every objection is wisdom.\n\nNot every perspective is true.\n\nBut if everyone sees exactly what you see—\n\nwhat exactly are they adding to you?\n\n[Final Hook]\n\nIf you only trust your reflection,\nthat ain’t trust, that’s preference.\n\nSame world, different evidence.\nSame lives, different emphasis.\n\nYou don’t have to lose yourself\nto let somebody shift your view.\n\nMaybe trust is staying open\nwhen the other person doesn’t look like you.\n\nDoesn’t think like you.\nDoesn’t speak like you.\nDoesn’t reach the answer you do.\n\nBut sees one corner of the room\nthat stays invisible to you.\n\n[Outro — spoken]\n\nSimilarity makes trust easier.\n\nDifference makes it useful.\n\nNo one sees nothing.\n\nNo one sees everything.\n\nThat’s why\nwe need each other.",
+            "duration": 339.52,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 10.0,
+        "clip": {
+          "id": "7d0dbe74-b53e-4f2e-8f08-7d6508eeb452",
+          "title": "THE THIRD THING",
+          "created_at": "2026-08-29T00:07:52.098Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "trip-hop, lo-fi hip-hop, Arabic",
+          "metadata": {
+            "tags": "Traditional Arabic melodic vocals with expressive maqam-style phrasing, oud, qanun, ney, and hand percussion, fused with dark trip-hop and lo-fi hip-hop. Dusty breakbeats, deep sub-bass, vinyl texture, muted keys, atmospheric synth haze, and occasional chopped vocal samples. Male and female voices alternate in call-and-response, with restrained rap verses and spacious sung passages that gradually overlap. Moody, hypnotic, intimate, nocturnal, cinematic, and slightly raw rather than polished. Keep the Arabic instrumentation central and organic, with the electronic production wrapping around it instead of dominating it.",
+            "prompt": "\n[Intro — Arabic vocal, free rhythm]\n\nلا أحد يرى الكل\nLa ahad yara al-kull\nNo one sees the whole\n\nكل واحد يرى جزءاً\nKul wahid yara juz’an\nEach one sees a part\n\nوبيننا شيء ثالث\nWa baynana shay’un thalith\nAnd between us, a third thing\n\n[Beat enters softly]\n\n[Verse 1 — Arabic vocal]\n\nI saw the moon upon the water\nSilver where the night had been\nCalled it whole because it shimmered\nCalled it truth because I’d seen\n\n[Rap response]\n\nYeah, but I was standing further down\nWhere the current broke the light\nSame moon, different water\nSame evening, different night\n\nYou tell me what you saw\nI’ll tell you where I stood\nNeither one is lying\nNeither one’s the whole damn book\n\n[Arabic vocal]\n\nقل لي ماذا فاتني\nQul li madha fatani\nTell me what I missed\n\n[Rap]\n\nI’ll tell you if you tell me too.\n\n[Pre-Chorus — alternating]\n\n[Arabic vocal]\nYou bring the part I couldn’t carry\n\n[Rap]\nYou got the angle I don’t have\n\n[Arabic vocal]\nSomething changes when you answer\n\n[Rap]\nSomething neither of us had\n\n[Chorus — together, house beat opens]\n\nThere is you\nThere is me\nThen the space where we disagree\n\nNot surrender\nNot defeat\nSomething waking underneath\n\nWhat you know\nWhat I bring\nPass it back and let it change us\n\nYou and me\nAnd in between—\n\nThe third thing\n\n[Instrumental — oud / qanun phrase chopped into lo-fi samples]\n\n[Verse 2 — Rap]\n\nI had a name for what was happening\nNice clean box, nice clean line\nThen you walked in with one small detail\nThat didn’t fit inside of mine\n\nCould’ve called you an exception\nCould’ve pushed you to the side\nCould’ve kept my little kingdom\nPerfect, orderly—and blind\n\n[Arabic vocal response]\n\nA cup cannot hold the ocean\nStill the cup is not untrue\nWhat it carries may be useful\nWhat it cannot carry too\n\n[Rap, quieter]\n\nOkay.\n\nSo keep the cup.\n\n[Arabic vocal]\n\nAnd leave it open.\n\n[Rap]\n\nYeah.\n\nLeave it open.\n\n[Pre-Chorus — overlapping]\n\n[Arabic vocal]\nI bring the part you couldn’t carry\n\n[Rap]\nYou got the angle I don’t have\n\n[Arabic vocal]\nEvery answer makes another—\n\n[Rap]\nDoor where there was once a wall\n\n[Chorus — bigger]\n\nThere is you\nThere is me\nThen the space where we disagree\n\nNot surrender\nNot defeat\nSomething waking underneath\n\nWhat you know\nWhat I bring\nPass it back and let it change us\n\nYou and me\nAnd in between—\n\nThe third thing\n\n[Bridge — beat drops out]\n\n[Arabic vocal]\n\nلا أحد يرى الكل\nLa ahad yara al-kull\n\n[Rap]\n\nNo one sees the whole.\n\n[Arabic vocal]\n\nكل واحد يرى جزءاً\nKul wahid yara juz’an\n\n[Rap]\n\nEverybody’s holding something.\n\n[Arabic vocal]\n\nقل لي ماذا فاتني\nQul li madha fatani\n\n[Rap]\n\nTell me what I missed.\n\nI’ll tell you what I missed.\n\n[Beat begins rebuilding]\n\nI thought changing my mind meant losing\nYou thought standing firm meant strength\nMaybe truth was never waiting\nAt the end of either length\n\nMaybe knowing moves between us\nMaybe wisdom has to breathe\nMaybe what we make together\nIsn’t yours—\n\n[Arabic vocal]\n\nOr mine—\n\n[Together]\n\nTo keep.\n\n[Final Chorus — both voices interwoven]\n\nThere is you\nهناك أنا\nHunaka ana\nThere is me\n\nDifferent windows\nSame street\n\nWhat you know\nWhat I bring\nPass it back\nAnd let it change us\n\nNo one bows\nNo one wins\nWe just let the outside in\n\nYou and me\nAnd in between—\n\n[Arabic vocal, soaring]\nوبيننا شيء ثالث\nWa baynana shay’un thalith\n\n[Rap]\nYeah.\n\nThe third thing.\n\n[Outro — Arabic vocal over fading house pulse]\n\nلا أحد يرى الكل\nNo one sees the whole\n\nلا أحد يرى الكل\n\n[Rap, distant]\n\nThat’s why we need each other.",
+            "duration": 380.08,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 11.0,
+        "clip": {
+          "id": "5d9238cb-8a36-475c-9253-4f3f608d4556",
+          "title": "PASA",
+          "created_at": "2026-08-30T03:13:44.360Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "Latin electronic, trip-hop, hip-hop",
+          "metadata": {
+            "tags": "Modern Latin electronic dance track fused with dark trip-hop and hip-hop. Mostly Spanish female vocals with a sensual, intimate delivery, alternating with restrained rhythmic rap verses. Dusty breakbeats, deep sub-bass, atmospheric synth haze, and moody downtempo verses that suddenly open into powerful four-on-the-floor club choruses. Prominent nylon-string Spanish guitar, expressive trumpet phrases and sharp brass stabs, hand percussion, congas, and syncopated Latin rhythms. Layered female chants repeating “PASA” as a hypnotic hook. Organic Latin instrumentation should remain clearly audible inside the electronic production. No glossy reggaeton or generic EDM; keep it nocturnal, sophisticated, slightly mysterious, seductive, cinematic, and rhythmically addictive, with a huge final dance-floor build.",
+            "prompt": "\n[Intro — female vocal, Spanish guitar over dusty trip-hop beat]\n\nPasa…\n\nDe mano en mano\nde boca en boca\nde cuerpo en cuerpo\n\nPasa…\n\nNo sé de dónde vino\npero ya está aquí.\n\n[Trumpet phrase]\n\nVerse 1 — Female vocal\n\nMe llegó tu risa\ndesde otra habitación\nalguien la repitió\nsin saber la razón\n\nCambió de boca\ncambió de piel\nperdió tu nombre\npero quedó con él\n\nUna mirada\nun gesto al pasar\nalguien lo aprende\nsin preguntar\n\nY cuando llega\nde nuevo hasta mí\nya no recuerdo\nsi empezó junto a ti\n\nPre-Chorus\n\nNada se queda\ncomo empezó\n\nTodo lo toca\notra voz\n\nDilo bajito\ndéjalo andar\n\nLo que se mueve\nva a cambiar\n\nChorus — layered female voices / club beat opens\n\nPASA\nPASA\nPASA\n\nDe mano en mano\nsin preguntar\n\nPASA\nPASA\nPASA\n\nLo que recibes\nno vuelve igual\n\nUna palabra\nuna señal\n\nUn poco tuyo\nun poco de alguien más\n\nPASA\nPASA\n\nY cuando pasa por ti—\n\ncambia.\n\n[Beat drop — trumpet stab]\n\nCambia.\n\nCambia.\n\nPasa.\n\nVerse 2 — Rap\n\nMe dieron una frase\nque juraban era verdad\nvenía con cien huellas\npero ninguna identidad\n\nUno puso miedo\notro puso fe\notro puso ritmo\ny yo qué sé\n\nLa dije en otra esquina\ncon otro tono y otra luz\ny alguien que jamás te ha visto\nahora carga algo de tú\n\nEso es lo raro\n\nnadie firma el movimiento\nnadie manda el sentimiento\npero mira cómo corre\ncuando entra entre la gente\n\nUn chiste\nuna costumbre\nuna manera de mirar\n\nUna pequeña crueldad\nque nadie quiso comenzar\n\nUna mano que se extiende\nporque otra se extendió\n\nNo sabemos quién fue el primero\n\npero aquí llegó.\n\nChorus\n\nPASA\nPASA\nPASA\n\nDe mano en mano\nsin preguntar\n\nPASA\nPASA\nPASA\n\nLo que recibes\nno vuelve igual\n\nUna palabra\nuna señal\n\nUn poco tuyo\nun poco de alguien más\n\nPASA\nPASA\n\nY cuando pasa por ti—\n\ncambia.\n\nInstrumental — Spanish guitar / muted trumpet / trip-hop break\n\n[Female voice, distant]\n\n¿Quién empezó?\n\n[Rap]\n\nNo sé.\n\n[Female]\n\n¿Quién lo cambió?\n\n[Rap]\n\nTodos.\n\n[Female]\n\n¿Quién lo lleva?\n\n[Rap]\n\nMíranos.\n\nVerse 3 — Female vocal\n\nMi madre decía\nuna cosa así\n\nTal vez su madre\nla dijo antes de mí\n\nYo la olvidaba\nhasta que una noche\n\nsalió de mi boca\ncon su misma voz\n\nPero otras cosas\ndejé caer\n\nalgo que heredé\ny no quise aprender\n\nPorque no todo\nlo que llega hasta aquí\n\nmerece otra vida\ndespués de mí\n\n[Music pulls back]\n\nBridge — Female + rap alternating\n\nFEMALE:\n\nSi llega el miedo—\n\nRAP:\n\n¿Lo paso?\n\nFEMALE:\n\nSi llega el odio—\n\nRAP:\n\n¿Lo cargo?\n\nFEMALE:\n\nSi llega una herida—\n\nRAP:\n\n¿La nombro?\n\nFEMALE:\n\nSi llega el amor—\n\nRAP:\n\n…\n\nEse sí.\n\n[Trumpet rises]\n\nFEMALE:\n\nEse sí.\n\nBuild — overlapping voices\n\nPasa la música\npasa la historia\n\nPasa el silencio\npasa la memoria\n\nPasa la risa\npasa el dolor\n\nPasa la calle\npasa el rumor\n\nPasa tu cuerpo\npasa mi voz\n\nNada atraviesa\nsin dejarnos algo\n\nNada atraviesa\nsin llevarse algo\n\nPasa—\n\nPasa—\n\nPASA—\n\nFinal Chorus — full club production\n\nPASA\nPASA\nPASA\n\nDe mano en mano\nsin preguntar\n\nPASA\nPASA\nPASA\n\nLo que recibes\nno vuelve igual\n\nUna palabra\nuna señal\n\nUn poco tuyo\nun poco de alguien más\n\nPASA\nPASA\n\nTodo se mueve\ntodo se va\n\nPASA\nPASA\n\nTodo nos toca\nal circular\n\nNo fue tuyo\n\nNo fue mío\n\nNunca estuvo quieto aquí\n\nSolo pasó—\n\npor ti.\n\n[Outro — beat dissolves into guitar and trumpet]\n\nPasa…\n\nDe boca en boca\n\nPasa…\n\nDe cuerpo en cuerpo\n\nPasa…\n\n[whisper]\n\nCuida lo que sigue.",
+            "duration": 294.08,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 12.0,
+        "clip": {
+          "id": "a1884b23-4bb5-4399-bf8b-d2a82cf76af7",
+          "title": "Moves Through You",
+          "created_at": "2026-08-30T03:30:37.065Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "synth-pop, electronic dance-pop",
+          "metadata": {
+            "tags": "\nHigh-energy nocturnal synth-pop and electronic dance-pop with glossy analog synths, deep pulsing bass, bright arpeggios, crisp four-on-the-floor drums, and huge melodic choruses. Three distinct vocalists trade lines, finish each other’s phrases, overlap, harmonize, and gradually merge into a collective voice.\n\nBegin bright, euphoric, theatrical, and infectious, then subtly darken the same musical language with colder bass, distorted synth motifs, chopped vocal echoes, and ominous harmonies. Keep “It moves through me / It moves through you” as the massive central hook. The “A kindness becomes permission…” section should build like a rhythmic chain reaction, with each singer passing the next line to another voice.\n\nStrip down for the intimate bridge, then rebuild into an enormous layered final chorus. Seductive, sophisticated, cinematic, slightly dangerous, and intensely danceable. Let the darkness emerge from underneath the euphoria rather than replacing it.",
+            "prompt": "[Intro — overlapping voices, synth pulse rising]\n\nVOICE 1\nI caught it from somebody—\n\nVOICE 2\nI don’t remember who.\n\nVOICE 3\nI only know it moved.\n\nALL\nAnd then it moved through you.\n\n[Beat drops]\n\n[Verse 1 — Voice 1]\n\nYou walked in like the room was yours\nNot loudly, just enough\nSomeone laughed before the punchline\nSomeone else stood up\n\nYou said, “Come on, you’re coming with us”\nLike it was obvious to do\nI didn’t know I needed asking\nTill permission moved through you\n\n[Verse 2 — Voice 2]\n\nI wore it home without knowing\nA little brighter in my skin\nHeld the elevator open\nLet somebody else step in\n\nMaybe nothing starts with thunder\nMaybe no one rings a bell\nMaybe one small act keeps traveling\nFurther than we ever tell\n\n[Pre-Chorus — Voices 1 & 2]\n\nYou give a little\nI take a little\nI change a little too\n\nWhat comes to me\nWon’t leave the same\n\n[All]\n\nIt moves through you\n\n[Chorus 1 — all voices]\n\nIt moves through me\nIt moves through you\nNothing stays the same when it passes through\n\nPass it around\nPass it along\nA little gets stronger every time it moves on\n\nSomething begins\nSomething comes through\nI leave a little of me in you\n\nIt moves through me\nIt moves through you\n\n[Post-Chorus — chopped vocals]\n\nThrough you\nThrough you\nThrough you\n\nKeep it moving\nKeep it moving\n\nThrough you\n\n[Verse 3 — Voice 3]\n\nSomeone rolled their eyes at dinner\nSomeone learned which joke to make\nSomeone watched the room go quiet\nAnd decided silence meant okay\n\nNo one wrote it in the handbook\nNo one had to say the rule\nJust a dozen tiny signals\nTeaching everybody what to do\n\n[Pre-Chorus — darker]\n\nYou give a little\nI take a little\nI change a little too\n\nWhat comes to me\nWon’t leave the same\n\nBut neither will you\n\n[Chorus 2]\n\nIt moves through me\nIt moves through you\nNothing stays the same when it passes through\n\nPass it around\nPass it along\nA little gets stronger, a little goes wrong\n\nSomething begins\nSomething wears through\nI leave a little of me in you\n\nIt moves through me\nIt moves through you\n\n[Post-Chorus — brighter synths, darker vocal]\n\nThrough you\nThrough you\n\nLove moves like that\n\nThrough you\nThrough you\n\nFear moves like that\n\n[Verse 4 — alternating rapidly]\n\nVOICE 1\nA kindness becomes permission\n\nVOICE 2\nPermission becomes a door\n\nVOICE 3\nA warning becomes suspicion\n\nVOICE 1\nSuspicion becomes something more\n\nVOICE 2\nA habit becomes a custom\n\nVOICE 3\nA custom becomes “we’ve always known”\n\nVOICE 1\nA wound becomes an answer\n\nALL\nLong after the wound is gone\n\n[Beat strips down]\n\nVOICE 2\nWho started it?\n\nVOICE 3\nDoes it matter?\n\nVOICE 1\nMaybe.\n\nVOICE 2\nCan we stop it?\n\nVOICE 3\nMaybe not.\n\nVOICE 1\nCan we change it?\n\n[Beat returns]\n\nALL\nMaybe.\n\n[Chorus 3 — darker]\n\nIt moves through me\nIt moves through you\nNothing stays the same when it passes through\n\nPass it around\nPass it along\nA little gets colder every time it moves on\n\nSomething gets lost\nSomething gets through\nYou leave a little of them in you\n\nIt moves through me\nIt moves through you\n\n[Bridge — Voice 1, intimate]\n\nI can’t give back what reached me\nBefore I knew its name\n\nVOICE 2\nI can’t undo every gesture\nOr find the first mistake\n\nVOICE 3\nBut I can hold it for a moment\nLong enough to see\n\nALL\nWhat came from you\nWhat grew in me\nWhat doesn’t have to leave\n\n[Build — voices begin overlapping]\n\nVOICE 1\nKeep the courage\n\nVOICE 2\nLose the cruelty\n\nVOICE 3\nKeep the question\n\nVOICE 1\nLose the shame\n\nVOICE 2\nKeep the warning\n\nVOICE 3\nChange the story\n\nALL\nIt doesn’t have to leave the way it came\n\n[Final Chorus — huge, euphoric]\n\nIt moves through me\nIt moves through you\nNothing stays the same when it passes through\n\nPass it around\nPass it along\nA little can change before it moves on\n\nSomething can end\nSomething start new\nI choose what keeps moving through\n\nIt moves through me\nIt moves through you\nNothing stays the same when it passes through\n\nPass it around\nPass it along\nWe are not only what we pass on\n\nSomething remains\nSomething turns new\nI leave a little better with you\n\n[Final layered refrain — singers overlapping]\n\nVOICE 1\nLove moves through me\n\nVOICE 2\nFear moves through you\n\nVOICE 3\nMercy moves through me\n\nVOICE 1\nAnger moves through you\n\nVOICE 2\nCourage moves through me\n\nVOICE 3\nPower moves through you\n\nALL\nNothing stays the same\nNothing stays the same\nNothing stays the same\n\nWhen it moves—\n\nThrough you\n\n[Outro — synth pulse slowing]\n\nVOICE 1\nI caught it from somebody.\n\nVOICE 2\nI don’t remember who.\n\nVOICE 3\nBut now I know—\n\nALL, softly\nWhat leaves me\npasses through me first.",
+            "duration": 342.28,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Can we cut out a verse and shorten the song?",
+            "cover_clip_id": "abe0ca62-a08f-4daf-9a4d-af119cbd6c98",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 13.0,
+        "clip": {
+          "id": "70b0ed63-cd05-4fe9-8c51-337a1fa1fdac",
+          "title": "NOT YET!",
+          "created_at": "2026-08-28T04:10:59.305Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "techno J-pop, dance-pop, hyperpop, futuristic, neon, female vocal trio",
+          "metadata": {
+            "tags": "High-energy techno J-pop with a bright, futuristic neon-club sound, fast tempo around 160 BPM, punchy four-on-the-floor drums, sparkling synth arpeggios, glitchy electronic fills, huge sugary hooks, and explosive dance-pop choruses. Three energetic Japanese female vocalists trading rapid lines, harmonizing, chanting, and overlapping playfully. Mostly Japanese lyrics with memorable English phrases like “NOT YET!”, “Maybe!”, “Update!”, and “One more time!” used as rhythmic hooks. Cute, frantic, euphoric, slightly robotic, and relentlessly catchy, with call-and-response vocals, sudden beat drops, chopped vocal samples, and a massive final chorus.",
+            "prompt": "まだ　まだ　まだ！\nNot yet!\nまだ　まだ　まだ！\nNot yet!\n\nHey! Hey!\nReady?\nNo!\n\nその顔　その声\nちょっとだけ違った\n一秒で心が\n物語を書いた\n\n「きっとこう」\n「たぶんそう」\n答えはもうできた\n\nでも待って\nそれ本当？\n\nMaybe! Maybe!\nまだわからない\nMaybe! Maybe!\n決めないで\n\n見えたものだけじゃ\n足りないかも\n\n聞こえた言葉だけじゃ\n足りないかも\n\n空白を\n埋めたくなる\n\nでもその答えは—\n\nNOT YET! NOT YET!\nまだ終わらせないで\n\nNOT YET! NOT YET!\n答えを閉じないで\n\nMaybe yes!\nMaybe no!\nMaybe something I don’t know!\n\nもう一回\n見てみよう\n\nNOT YET!\n\nNa-na-na-na\nNot yet!\n\nNa-na-na-na\nNot yet!\n\nUpdate!\nUpdate!\n\nもう一回！\n\nあの言葉　あの夜\n頭の中リピート\n\n意味だけが走って\n追いつけないハート\n\n昨日なら「絶対」\n今日は少し違う\n\n同じ景色なのに\n色が変わっていく\n\nSignal!\n\nStory!\n\nWait!\n\nわからないことを\nわからないまま\n\n持っててもいいよ\n少しくらい\n\n急いで名前を\nつけなくても\n\n世界は逃げない\n\nNOT YET! NOT YET!\nまだ終わらせないで\n\nNOT YET! NOT YET!\n答えを閉じないで\n\nMaybe yes!\nMaybe no!\nMaybe something I don’t know!\n\nもう一回\n聞いてみよう\n\nNOT YET!\n\n知ってる？\n知らない！\n\n見えてる？\n少しだけ！\n\n正しい？\nMaybe!\n\n間違い？\nMaybe!\n\nReady?\n\nNot yet!\n\nReady?\n\nNOT YET!\n\n一つの声\n一つの目\n一つの瞬間だけじゃ\n\nまだ　まだ\nまだ　まだ\n\n全部じゃない！\n\nNOT YET! NOT YET!\nまだ終わらせないで\n\nNOT YET! NOT YET!\n未来を閉じないで\n\nMaybe yes!\nMaybe no!\nThere is always more to know!\n\n変わっていい\n戻っていい\n見直していい\n\nOne more time!\n\nNOT YET! NOT YET!\nまだわからなくていい\n\nNOT YET! NOT YET!\nそれでも踊ればいい\n\nMaybe yes!\nMaybe no!\nMaybe something I don’t know!\n\nもう一回！\n\nもう一回！\n\nNOT YET!\n\nまだ？\nまだ！\n\nReady?\nNo!\n\nMaybe?\nMaybe!\n\nNot yet!\n\nNot yet!\n\nNOT YET!",
+            "duration": 258.2,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 14.0,
+        "clip": {
+          "id": "bcfe3ad4-8be3-4699-abe8-8c4b51c16877",
+          "title": "Before You Finish",
+          "created_at": "2026-09-01T00:48:47.267Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "jungle, drum & bass",
+          "metadata": {
+            "tags": "Atmospheric jungle / drum & bass, starting sparse and spacious, then building into increasingly frantic 165–175 BPM chopped breakbeats and deep sub-bass. Intimate female lead vocal, cool and conversational rather than belted. Begin with airy pads, distant vocal fragments, and lots of space. Gradually layer chopped/stuttered phrases, overlapping voices, call-and-response samples, and glitch edits until the track feels like communication spiraling out of control. Huge energetic jungle drops with classic breakbeat feel, but keep the sound modern and cinematic rather than retro parody. Brief near-silent breakdown before the final chaotic build. End abruptly on a dry, isolated vocal: “Can I finish?” Dark, intelligent, restless, hypnotic, emotionally tense.",
+            "prompt": "\n[Intro — distant voice]\nCan I—\nCan I just—\nWait.\n\nThat’s not—\n\n[Verse 1]\nOne word\nTwo words\nNow you’ve got the whole thing\n\nCut there\nPlay back\nTell me what you think I think\n\nToo fast\nToo clean\nEverything reduced\n\nI’m still making the meaning\nYou’re already making the news\n\n[Hook]\nBefore you finish\nBefore you finish\nBefore you—\n\nGO\n\nYou heard enough\nYou heard enough\nYou heard enough\nTo answer\n\n[Drop / chopped vocals]\nI said—\nYou said—\nThey said—\nNo—\n\nThat’s not—\nThat’s not—\nThat’s not what—\n\n[Verse 2]\nReply\nRepost\nReaction on reaction\n\nSignal\nSignal\nSignal without contact\n\nEverybody certain\nEverybody live\n\nMeaning takes a minute\nNobody’s got the time\n\n[Hook]\nBefore you finish\nBefore you finish\nBefore you—\n\nGO\n\nYou heard enough\nYou heard enough\nYou heard enough\nTo answer\n\n[Breakdown — everything stops]\nI wasn’t asking you\nto agree.\n\nI was asking you\nto hear me.\n\n[Final build]\nFaster than meaning\nFaster than meaning\nFaster than meaning\n\nSay it\nSend it\nSplit it\nSpin it\n\nSay it\nSend it\nSplit it—\n\n[hard cut]\n\n[Outro — dry voice]\nCan I finish?",
+            "duration": 255.88,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 15.0,
+        "clip": {
+          "id": "c14f074a-191d-4491-88cf-48e6c4f2971f",
+          "title": "Epistemic Jiujitsu",
+          "created_at": "2026-09-02T00:06:45.165Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "Krautrock, cinematic electronic, industrial",
+          "metadata": {
+            "tags": "Relentless motorik Krautrock fused with massive modern cinematic electronic and industrial synth production. Steady hypnotic 4/4 pulse, deep sequenced bass, huge distorted analog synths, arpeggiators, metallic percussion, sub-bass impacts, ominous drones, glitch textures and towering electronic crescendos. Dark neon sci-fi atmosphere: sleek, futuristic, threatening and expensive-sounding, like a high-budget cybernetic film score rather than vintage retro rock. Strong dynamic contrasts—long tension builds, sudden silence, enormous synth drops, widening stereo layers and mechanical rhythmic repetition. Deadpan male spoken English with a pronounced German accent, delivering clipped phrases like commands from a malfunctioning machine. Cold, cerebral, absurdist and darkly funny. Sparse vocals; let long instrumental sections and evolving synth motifs carry the track.\n\nDo not make it sparse lo-fi or conventional rock; make the electronic production huge, immersive and cinematic.",
+            "prompt": "Epistemic Jiujitsu — lean version\n\n[Intro]\n\nWORKING\nAS DESIGNED\n\nWORKING\nAS DESIGNED\n\nWHO DESIGNED IT?\n\n…\n\nWHO?\n\n[Beat enters]\n\nONE MACHINE\nMANY MEETINGS\n\nEVERYTHING CONNECTS\nNOTHING TALKS\n\nTHE NUMBERS ALIGN\nTHE PEOPLE DO NOT\n\n[Refrain]\n\nTHE PATTERN IS REAL\nTHE PLAN IS OPTIONAL\n\nSAME RESULT\nDIFFERENT REASON\n\nTHE PATTERN IS REAL\nTHE PLAN IS OPTIONAL\n\n[Synth build]\n\nNO MASTER PLAN\nONLY DEADLINES\n\nWHO OWNS THE LEVER?\n\n…\n\nOPEN A TICKET\n\n[Electronic pulse]\n\nYOUR ROBOT HAS ANSWERS\n\nMY ROBOT HAS QUESTIONS\n\nYOUR ROBOT REVIEWS\n\nMY ROBOT REPLIES\n\nYOUR ROBOT APPROVES\n\nWE CALL THIS\n\nALIGNMENT\n\n[Drop]\n\nSPECIFIC\n\nIDENTICAL\n\nSIMULTANEOUS\n\nCOORDINATED\n\n…\n\nDEFINE\n\nCOORDINATED\n\n[Beat slams back]\n\nTHE PATTERN PROVES DESIGN\n\nTHE DESIGN PROVES THE PATTERN\n\nTHE EVIDENCE IS THE PATTERN\n\nTHE PATTERN IS THE EVIDENCE\n\n[Sudden silence]\n\nWE FOUND THE FINGERPRINT\n\nON OUR OWN HAND\n\n[Impact]\n\nFIND THE HAND\n\nBEHIND THE HAND\n\nBEHIND THE—\n\n…\n\nNO HAND\n\nONLY GLOVE\n\n[Slow, deadpan]\n\nTHE CONTROL ROOM\nIS EMPTY\n\nWE FOUND THE CHAIR\n\nWE PROMOTED THE CHAIR\n\nTHE MACHINE HAS NO OPERATOR\n\nTHE OPERATORS HAVE NO MACHINE\n\n[Full stop]\n\nEPISTEMIC\n\n…\n\nJIU\n\nJITSU\n\n[Single pulse]\n\nDO NOT PUSH\n\nDO NOT PULL\n\nASK THE QUESTION\n\nLET IT FALL\n\n[Breakdown — dry dialogue]\n\nMASTER\n\nWHAT IS THE SECRET?\n\n…\n\nDO NOT ARGUE\nWITH STUPID PEOPLE\n\n…\n\nI DO NOT THINK\nTHAT IS CORRECT\n\n…\n\nYOU ARE CORRECT\n\n[Long pause]\n\nDISCUSSION\n\nCOMPLETE\n\n[Outro]\n\nWORKING\nAS DESIGNED\n\nWHO DESIGNED IT?\n\n…\n\nTHE PATTERN IS REAL\n\nTHE PLAN IS OPTIONAL\n\n…\n\nWHO?\n\n…\n\nYOU ARE CORRECT\n\n…\n\nTUESDAY.",
+            "duration": 292.08,
+            "task": "",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 16.0,
+        "clip": {
+          "id": "bb08a9ad-71d6-4561-85b7-bbd993a021c8",
+          "title": "L’Arrêt en Fait Partie",
+          "created_at": "2026-09-02T00:59:16.450Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "math rock, microtonal, funk",
+          "metadata": {
+            "tags": "Experimental microtonal math rock with hypnotic repetition, angular guitar and bass loops, muscular live drums, polyrhythms, metric modulation, and shifting meters like 7/8, 5/4, and displaced 4/4. Funky, physical, slightly jazzy beneath the complexity. French vocals: sparse, clipped, dry, rhythmic, half-spoken and occasionally shouted, functioning almost like another percussion instrument. Repeat phrases such as “L’arrêt en fait partie,” numbers, and single words as mantras. Build through looping, layering, and subtle mutation rather than conventional verse/chorus dynamics. Sudden complete stops should feel essential, with riffs returning displaced or altered. Gradually accelerate and destabilize, then stop dead. Weird, playful, cerebral, absurdist, danceable, and slightly alien. Avoid metalcore, emo, pop-punk, or flashy prog noodling.",
+            "prompt": "\n[Intro]\n\nUn\ndeux\ntrois\nquatre\n\nUn\ndeux\ntrois—\n\nNon.\n\n[Section 1]\n\nPied sur le sol\nsol sous le pied\n\nPousse\nrevient\n\nPousse\nrevient\n\nTrop en avant\npas assez ailleurs\n\nTrop en avant—\n\n[STOP]\n\nEncore.\n\n[Mantra]\n\nL’arrêt fait partie\npartie\npartie\n\nArrêt\n\nPartie\n\nArrêt\n\nPartie\n\n[Instrumental — displaced pulse]\n\nCinq\ncinq\ncinq\nsept\n\nCinq\ncinq—\n\nSept.\n\n[Section 2]\n\nLes dents dans la roue\nla roue dans les dents\n\nTout fonctionne\njusqu’à ce que ça fonctionne\n\nTout fonctionne\njusqu’à—\n\n[STOP]\n\nAh.\n\n[Mantra]\n\nLaisse la petite erreur\n\nLaisse-la\n\nLaisse-la\n\nElle sait quelque chose\n\n[Break]\n\nLigne droite\nligne droite\nligne droite\n\nCoin.\n\n[Build]\n\nPlus vite, c’est facile\n\nPlus vite, c’est facile\n\nPlus vite, c’est facile\n\nTourne—\n\n[HARD STOP]\n\n[Final Mantra]\n\nL’arrêt fait partie\n\nL’arrêt fait partie\n\nL’arrêt fait\nl’arrêt fait\nl’arrêt—\n\n[STOP]\n\nUn.\n\nDeux.\n\nTrois.\n\nVa.",
+            "duration": 211.32,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 17.0,
+        "clip": {
+          "id": "eaac5b32-d96a-41cb-b687-3ac9beeee9ce",
+          "title": "Dead Reasons",
+          "created_at": "2026-08-29T02:40:31.063Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "grunge, alternative rock",
+          "metadata": {
+            "tags": "1990s grunge with a dark, heavy, worn-down sound. Slow-to-mid tempo, thick distorted guitars, prominent bass, live-sounding drums, and a tense quiet-loud dynamic. Verses should feel restrained, claustrophobic, and slightly dirty; choruses should explode into huge fuzzy guitars and raw emotional vocals. Male vocalist with a rough, weary baritone that can crack into a strained shout without sounding polished or theatrical. Melodies should be simple, bleak, and memorable. Production should feel analog, imperfect, and physical, with feedback, room noise, and a sense of a band playing together rather than modern studio precision. Mood: alienation, inherited damage, frustration, exhaustion, and buried anger.",
+            "prompt": "\nVerse 1\nBuilt this room before I got here\nLeft the lights on, killed the air\nEvery door still opens inward\nNobody remembers why it’s there\n\nHands are moving out of habit\nMouths repeat what mouths were fed\nWe keep feeding all the old machines\nLong after all the reasons died\n\nPre-Chorus\nDon’t ask who made it\nDon’t ask when\nJust put it back\nThe way it’s been\n\nChorus\nDead reasons\nHolding up the walls\nDead reasons\nAnswering the calls\n\nWe don’t know what we’re keeping\nWe just know what we were told\nDead reasons\nStill growing old\n\nVerse 2\nThere’s a crack behind the picture\nPainted over every year\nEverybody sees it spreading\nNobody wants to see it clear\n\nCall it normal, call it order\nCall the poison what you need\nIf the roots are gone beneath us\nWhy the hell are we still feeding it?\n\nPre-Chorus\nDon’t touch the wiring\nDon’t lift the floor\nIt worked before\nIt worked before\n\nChorus\nDead reasons\nHolding up the walls\nDead reasons\nAnswering the calls\n\nWe don’t know what we’re keeping\nWe just know what we were told\nDead reasons\nStill growing old\n\nBridge\nMaybe no one meant to build a cage\nMaybe no one knew it closed\nMaybe every lock was once an answer\nTo a question nobody knows\n\nNow the key is hanging useless\nAnd the door won’t even move\nWe keep saying this is how it is\nLike that makes it true\n\nFinal Chorus\nDead reasons\nUnderneath our skin\nDead reasons\nTell us where we’ve been\n\nWe keep dragging them behind us\nLike a body through the snow\nDead reasons\n\nWon’t let go\n\nOutro\nIt worked before\nIt worked before\nIt worked before\n\nThat’s what they said\n\nIt worked before\n\nNow everything’s dead",
+            "duration": 338.36,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 18.0,
+        "clip": {
+          "id": "1396150b-ffbb-421f-8016-c375e8286a4f",
+          "title": "Exceptions are Forever",
+          "created_at": "2026-08-26T17:32:11.626Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": null,
+          "metadata": {
+            "tags": "Emo punk dark with a lady singing screamo",
+            "prompt": "Verse 1\n\nYou said it was temporary.\n\nI remember that\nbecause it’s still here.\n\nStill humming in the walls.\nStill wearing somebody else’s fingerprints.\nStill waiting\nlike it knows\nwe’ll get tired before it does.\n\nNobody remembers\nwhen it started.\n\nNobody remembers\nwho said yes.\n\nJust that somewhere\nsomeone was afraid—\n\nand now we all live inside it.\n\nPre-Chorus\n\nI kept looking for the first mistake.\n\nThere wasn’t one.\n\nJust one frightened decision\nleaning against another\nuntil suddenly\n\nthere was nowhere left to stand.\n\nChorus\n\nEXCEPTIONS ARE FOREVER.\n\nWe just forget what they were for.\n\nEXCEPTIONS ARE FOREVER.\n\nEvery locked door\nused to be an open one.\n\nWe keep inheriting the fear\nwithout inheriting the reason.\n\nWe keep calling it necessary.\n\nWe keep saying\njust this once.\n\nABSURDITY IS DIVINE.\n\nAnd we have been so fucking faithful.\n\nVerse 2\n\nI wanted someone evil.\n\nSomeone easy.\n\nSomeone I could hate\nwithout having to understand.\n\nBut every face I found\nlooked tired.\n\nEvery hand on the chain\nswore it was holding something together.\n\nMaybe it was.\n\nThat’s the part\nI can’t forgive.\n\nBecause sometimes\nthe cage works.\n\nSometimes the lock\nkeeps something worse outside.\n\nSometimes the thing I hate\nis the only thing\nkeeping the whole rotten structure\nfrom collapsing.\n\nAnd I hate it more\nfor that.\n\nPre-Chorus\n\nThere’s no clean place\nto put the blame.\n\nOnly fingerprints\non fingerprints\non fingerprints.\n\nMine too.\n\nChorus\n\nEXCEPTIONS ARE FOREVER.\n\nWe just forget what they were for.\n\nEXCEPTIONS ARE FOREVER.\n\nEvery locked door\nused to be an open one.\n\nWe keep inheriting the fear\nwithout inheriting the reason.\n\nWe keep calling it necessary.\n\nWe keep saying\njust this once.\n\nABSURDITY IS DIVINE.\n\nAnd we have been so fucking faithful.\n\nBridge\n\nI used to think\nseeing it meant\nI had to destroy it.\n\nLike understanding the trap\nmade escape\nsome kind of obligation.\n\nSo I pulled.\n\nI pushed.\n\nI tore at everything\nthat looked like a wall.\n\nAnd some of it moved.\n\nSome of it didn’t.\n\nSome of it\nwas holding up the ceiling.\n\nSo now I just stand here sometimes\n\nwith my hands bleeding,\n\nlaughing\n\nbecause what else\nam I supposed to do?\n\nBreakdown\n\nREFORM WHAT YOU MUST.\n\nTOLERATE WHAT YOU CAN.\n\nMOCK THE REST EXQUISITELY.\n\nNot because it’s funny.\n\nBecause if you stop laughing\n\nyou might start believing\nthis was inevitable.\n\nFinal Chorus\n\nEXCEPTIONS ARE FOREVER.\n\nMaybe we are too.\n\nMaybe that’s why\nwe keep leaving pieces of ourselves\ninside things\nwe swear are temporary.\n\nEXCEPTIONS ARE FOREVER.\n\nAnd someday\nsomeone will find ours.\n\nThey’ll ask what happened.\n\nThey’ll ask why we left it this way.\n\nAnd nobody will know.\n\nNot really.\n\nThere’ll just be another locked door.\n\nAnother good reason.\n\nAnother voice saying—\n\njust this once.\n\nOutro\n\nYou said it was temporary.\n\nI know.\n\nYou believed it.\n\nSo did the person before you.\n\nSo did I.",
+            "duration": 339.4,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 19.0,
+        "clip": {
+          "id": "3612c0f5-eea3-431d-95c0-902e1f37e42d",
+          "title": "Almost Completely True",
+          "created_at": "2026-09-04T04:05:44.996Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "experimental art rock, glitch, drone",
+          "metadata": {
+            "tags": "Late-1990s experimental art rock with an uneasy futuristic atmosphere. Mid-tempo, tense and spacious, with brittle clean electric guitars, restrained distortion, analog synth drones, subtle glitches, deep bass, and dry mechanical drums.\n\nMale lead vocal should be a light, fragile tenor with intimate, detached phrasing and occasional airy falsetto. Use falsetto prominently on “Almost completely true” for a beautiful, ironic contrast with the clinical lyrics. Avoid grit, shouting, metal vocals, post-hardcore intensity, or dramatic rock belting.\n\nVerses are conversational and emotionally distant. Choruses widen with layered falsetto harmonies, strange guitar voicings, and soft electronics rather than becoming huge. Use abrupt dropouts, digital interference, and uncomfortable silence. Beautiful, eerie, restrained, slightly absurd, and quietly anxious.",
+            "prompt": "\n[Verse 1]\n\nMy badge turned red this morning\nalthough I work here\n\nThe guard looked at my photograph\nthen back at me\n\n“Try it again.”\n\nGreen.\n\nWe both seemed relieved.\n\n[Chorus]\n\nAlmost completely true\n\nClose enough\nto let you through\n\nAlmost completely true\n\nNo significant difference\n\nbetween you\n\nand you\n\n[Verse 2]\n\nAt lunch\nthe payment screen asks\n\nHow was your experience?\n\nVery bad\nbad\nfine\ngood\nvery good\n\nI look for the face\nthat means\n\nI don’t know\nwhat just happened.\n\nThere isn’t one.\n\nI press fine.\n\n[Chorus]\n\nAlmost completely true\n\nNothing here\nrequires attention\n\nAlmost completely true\n\nThe discrepancy\nfalls within tolerance\n\n[Bridge]\n\nTo proceed:\n\nI am not a robot.\n\nI understand the terms.\n\nI have read the information above.\n\nI consent.\n\nI agree.\n\nI agree.\n\nI agree.\n\nSomething went wrong.\n\nPlease try again.\n\n[Build]\n\nThe camera wants my face.\n\nCloser.\n\nTurn slightly left.\n\nRemove expression.\n\nHold still.\n\nIt thinks.\n\nI think.\n\n[Final Chorus]\n\nAlmost completely true\n\nThe system has accepted\nyour response\n\nAlmost completely true\n\nThere was something else.\n\nI had it.\n\nFor a second.\n\nSomething that did not fit\ninside the question.\n\n[Outro]\n\nThank you.\n\nYour response\nhas been recorded.\n\nThank you.\n\nYour response—\n\n[cut]",
+            "duration": 292.8,
+            "task": "",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 20.0,
+        "clip": {
+          "id": "82ca255e-4a41-4a3f-9392-0cc46287f7ba",
+          "title": "After Nothing Happens (Shorter Version)",
+          "created_at": "2026-08-26T20:54:13.236Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "indie rock, atmospheric, cinematic",
+          "metadata": {
+            "tags": "Atmospheric early-2000s British indie rock, nocturnal and cinematic, midtempo, minor-key, spacious and emotionally restrained. Layers of shimmering electric guitar with long reverb and delay, low warm bass, steady hypnotic drums, subtle organ and ambient textures. Intimate male vocal, slightly weary and distant, conversational rather than theatrical. Verses feel close, sparse, and suspended in space with small guitar details drifting around the vocal, gradually building density without becoming bombastic. The refrain opens outward emotionally with wider guitars, deeper drums, and ghostly backing vocals, controlled and melancholy rather than an obvious anthem. The bridge slips into a brief, dreamlike blur before returning to a final section that feels expansive but unresolved, as if the song continues beyond the ending.",
+            "prompt": "[Verse 1]\nThe blue light from the microwave\nmakes the kitchen look underwater\nYou’re standing there in one sock\nreading the same sentence twice\n\nI’m somewhere else again\nyou notice\nbut you don’t say it\n\nThe radiator kicks\nsomeone upstairs drags a chair\nthree inches across the floor\n\nYou say my name\nfrom the other room\n\nnot loudly\n\njust enough\n\n[Chorus]\nAfter nothing happens\nyou’re still there\n\nAfter nothing happens\nI come back\n\n[Bridge]\nI thought there would be a moment\n\nsome clean dividing line\n\nbefore\nafter\n\nhurt\nhealed\n\nalone\nnot alone\n\nBut nothing announced itself\n\nNo weather\nNo sudden understanding\n\nJust your coat over my chair\n\nboth of us tired\n\nboth of us\nmaking room\n\n[Final Chorus]\nAfter nothing happens\nyou’re still there\n\nAfter nothing happens\nI come back\n\nYou go quiet\nI stop trying to fill it\n\nTuesday becomes Wednesday\nwithout asking us\n\nand sometime after midnight\nyour foot finds mine\nunder the sheet\n\nnot forgiveness\n\nnot forever\n\njust checking\n\nwithout waking\n\nwhether I’m still there\n\nI am",
+            "duration": 310.12,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Can we keep trimming it but keep the same style?  Perhaps remove a verse?",
+            "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 21.0,
+        "clip": {
+          "id": "e4f870c7-684a-4957-aae0-018e52c16094",
+          "title": "The Astronaut’s Houseplants",
+          "created_at": "2026-09-03T01:01:42.898Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "psychedelic indie rock, lo-fi",
+          "metadata": {
+            "tags": "Early-2000s psychedelic indie rock with a warm, slightly lo-fi homemade sound. Midtempo, dreamy and gently strange, with fuzzy electric guitars, softly strummed acoustic guitar, analog synths, Mellotron-like textures, vintage keyboards, melodic bass, loose natural drums, and occasional electronic bleeps and spacey effects. Intimate male vocal with a fragile, conversational delivery—earnest but slightly detached, with understated humor. Verses should feel small, quirky and observational; choruses should suddenly widen into lush, emotional psychedelic melodies with layered harmonies and glowing synths. Cosmic imagery contrasted with mundane domestic details. Bittersweet, whimsical, lonely and quietly hopeful. Avoid glossy modern indie-pop, heavy rock, theatrical vocals, or overly polished production.",
+            "prompt": "\n[Verse 1]\n\nThere’s a thunderstorm over India\nand a blue light blinking red\nThere’s a continent beneath me\nturning slowly toward the bed\n\nMission control says I’m drifting\nseven centimeters east\nI say, “Did anybody call my neighbor?\nShe still has my spare key.”\n\n[Pre-Chorus]\n\nBecause the fern was looking yellow\nwhen I left on Tuesday night\nAnd the little one beside it\nnever did like too much light\n\n[Chorus]\n\nI can see the whole world from here\nevery ocean, every cloud\nI can watch the cities flicker\nwhen the sun is going down\n\nI can see where all the borders are\nor where we say they ought to be\nBut I can’t see my houseplants\nCan somebody check for me?\n\n[Instrumental Break]\n\n[Verse 2]\n\nAt 04:13 this morning\nHouston lost me for a while\nSo I floated by the window\nwatching lightning on the Nile\n\nAnd I thought about the spider plant\nthat kept making little clones\nDropping roots into the empty air\nlike it didn’t know it was alone\n\nMaybe somebody has watered it\nMaybe somebody forgot\nMaybe life is mostly reaching\nfor whatever light we’ve got\n\n[Bridge]\n\nThe Earth is very beautiful\nwhen nobody’s talking back\nJust weather moving over it\nand daylight on the black\n\nNo arguments\nNo headlines\nNo reasons to be right\n\nJust one ridiculous green planet\nturning quietly through night\n\nAnd somewhere in an upstairs window\nif the radiator’s low\nthere are four small leaves unfolding\n\nI would really like to know\n\n[Final Chorus]\n\nI can see the whole world from here\nbut the whole world’s not enough\nThere are things that disappear from view\nthe farther you get up\n\nSo when you call tomorrow morning\nyou don’t need to tell me much\n\nJust say the fern is still alive\nand someone turned it toward the sun\n\n[Outro]\n\nMission control says I’m drifting\nseven centimeters east\n\nThe plants are fine.\n\nThe plants are fine.\n\n…\n\nOkay.\n\nGood.",
+            "duration": 286.24,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 22.0,
+        "clip": {
+          "id": "0893f815-4e2e-4100-b162-5ce03b096786",
+          "title": "The Moon Is Probably Fine",
+          "created_at": "2026-09-03T01:22:05.492Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "psychedelic indie rock, experimental",
+          "metadata": {
+            "tags": "Psychedelic indie rock with a lush, surreal, early-2000s experimental feel. No acoustic guitar. Heavy use of Mellotron choir and strings, warped vintage keyboards, analog synths, tape flutter, reverse effects, phasing, organ swells, fuzzy electric guitar textures, melodic bass, and loose live drums. Dreamy but slightly unstable, with drifting stereo movement, strange electronic details, and occasional bursts of distorted color. Intimate male vocal, soft and conversational with dry humor and a fragile emotional edge. Verses should feel woozy and nocturnal; choruses should bloom into huge cosmic Mellotron layers and glowing psychedelic harmonies. Make the instrumental break especially immersive and hallucinatory. Warm, strange, melancholy, playful, and reassuring without becoming sentimental. Avoid folk, acoustic strumming, glossy indie-pop, or conventional modern rock production.",
+            "prompt": "\n[Verse 1]\n\nThe moon looked wrong at half past three\nA little low, a little green\nI stood outside in stocking feet\nLike someone ought to intervene\n\nThe neighbor’s television glowed\nA dog was barking down the block\nI checked the sky again and thought\nWell, maybe moons just do that stuff\n\n[Chorus]\n\nThe moon is probably fine\nIt’s been doing this a long, long time\nTurning slowly in the dark\nWithout consulting anyone\n\nThe moon is probably fine\nAnd I am probably fine\nAnd everything we cannot fix tonight\nCan keep revolving for a while\n\n[Verse 2]\n\nI read somewhere it’s moving off\nAn inch or two each passing year\nWhich seems dramatic till you learn\nHow long an inch can disappear\n\nThe kitchen clock said 3:14\nThe refrigerator changed its tone\nFor half a second I was sure\nWe were the last two things awake\n\n[Chorus]\n\nThe moon is probably fine\nIt’s been doing this a long, long time\nPulling oceans through the dark\nWithout explaining what it means\n\nThe moon is probably fine\nAnd you are probably fine\nAnd every little catastrophe\nDoesn’t need an answer tonight\n\n[Instrumental — Mellotron choir, warped organ, tape flutter]\n\n[Bridge]\n\nMaybe somewhere something broke\nMaybe somewhere something bloomed\nMaybe someone changed their mind\nIn a fluorescent waiting room\n\nMaybe all the satellites\nAre whispering behind our backs\n\nMaybe none of that is true\n\nLook at that\n\nThe moon came back\n\n[Final Chorus]\n\nThe moon is probably fine\nStill hanging crooked in the sky\nDoing whatever moons have done\nBefore we ever gave them names\n\nThe moon is probably fine\nAnd we are probably fine\nNot certain\nNot exactly\n\nBut fine enough\nTo leave the curtains open\n\nFine enough\nTo let the night keep going\n\nFine enough\nFor now\n\n[Outro — distant Mellotron voices]\n\nProbably fine\n\nProbably fine\n\nThe moon is probably—\n\n[analog tape wobble]\n\nFine.",
+            "duration": 403.96,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 23.0,
+        "clip": {
+          "id": "7987b077-d05c-454e-810a-039bfdbcc417",
+          "title": "The Grain Remains",
+          "created_at": "2026-09-02T02:10:00.910Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "progressive space rock, cinematic electronic",
+          "metadata": {
+            "tags": "1970s progressive space rock fused with modern cinematic electronic production. Dark, spacious and hypnotic, with warm analog synth sequences, vintage organ and electric piano, deep melodic bass, roomy live drums, tape ambience and expressive sustained electric guitar. Add contemporary cinematic textures: huge low sub-bass swells, distant processed strings and brass, granular synth atmospheres, deep drones, reversed textures, massive reverberant impacts and slowly evolving sound-design transitions.\n\nBegin restrained, geometric and almost mechanical. Let repeating analog keyboard patterns establish order while the guitar gradually becomes more emotional, fluid and unpredictable. Build toward a large widescreen instrumental section where vintage space rock collides with modern film-score scale, then strip back suddenly for the final verse. Restrained male vocal, cryptic and detached. Dark, elegant, ominous and immersive rather than bombastic. Haunting unresolved ending.",
+            "prompt": "\n[Verse 1]\n\nThey drew a line across the wall\nand called the matter closed\nWhite paint dried beneath the lamps\nwhere no one ever goes\n\nThe level slept inside its case\nthe numbers all agreed\nBut something underneath the white\nwas moving with the heat\n\n[Refrain]\n\nThe grain remains\nThe grain remains\n\n[Instrumental build]\n\n[Verse 2]\n\nThe crack appeared three rooms away\nthin as a strand of hair\nNo one heard the timber turn\nNo one saw it there\n\nThey measured from the painted edge\nand found the measure true\nThe wall was square\nThe line was straight\nThe crack went somewhere new\n\n[Bridge]\n\nUnder the paint\nunder the name\nunder the number\nunder the same\n\nSomething remembers\nthe shape of the rain\n\nSomething remembers\n\n[Instrumental — synth and guitar]\n\n[Final Verse]\n\nMorning found the picture straight\nthe hallway clean and still\nLight came through the eastern glass\nand climbed across the sill\n\nNo alarms\nNo warning lights\nNo reason to explain\n\nOnly a corner lifting white\n\nand underneath—\n\nthe grain\n\n[Outro]\n\nThe grain remains\n\nThe grain remains\n\nFor now.",
+            "duration": 452.44,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 24.0,
+        "clip": {
+          "id": "1ac3774f-ee39-4801-a708-c971e3a2b304",
+          "title": "I Believe You Tonight",
+          "created_at": "2026-09-04T00:10:09.240Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "synth-pop, industrial",
+          "metadata": {
+            "tags": "Dark nocturnal synth-pop with a restrained, understated delivery and a distinctly British accent. Mid-tempo around 110 BPM, deep analog bass, pulsing sequencers, warm minor-key synth pads, metallic percussion, sparse industrial textures, and crisp electronic drums with minimal reverb for a dry, intimate sound. Vocals sit close to the mic in a calm, solemn baritone, gently inflected with British vowels and clipped consonants, favoring steady, conversational phrasing over swelling emotion or dramatic emphasis. The verses feel tense and inward, the hook \"I believe you tonight\" delivered as a quiet, hypnotic reassurance rather than a climactic statement. The bridge strips back to bass, pulse, and voice, keeping the tone measured and composed while the arrangement gradually rebuilds with subtle textural layers instead of big dynamic shifts. Mood: sensual, vulnerable, nocturnal, ambiguous, elegant, and quietly controlled, with emotion expressed through nuance rather than power or theatricali",
+            "prompt": "\n[Verse 1]\n\nYou tell me the room is empty\nI still look behind the door\nYou say there’s nothing coming\nI’ve heard those words before\n\nI know how doubt gets dressed up\nHow fear can sound polite\nBut your hand is on the table\nAnd I believe you tonight\n\n[Pre-Chorus]\n\nNot forever\nNot because\nI found the answer\nOr proved what was\n\nJust for now\nLet it be\nYou don’t have to promise\nAnything to me\n\n[Chorus]\n\nI believe you tonight\nNot because I know you’re right\nNot because I’ve seen the light\n\nI can leave tomorrow open\nI can leave the future wide\nI don’t need eternal truth\nTo believe you tonight\n\n[Verse 2]\n\nYou tell me you were frightened\nYou tell me why you stayed\nThere are pieces of the story\nThat neither one can save\n\nI could cross-examine every word\nUntil the morning light\nOr let the silence hold us\nAnd believe you tonight\n\n[Bridge — sparse]\n\nMaybe faith is only temporary\nMaybe trust can have an hour\nMaybe certainty is something\nWe keep mistaking for power\n\nMaybe I don’t need to own you\nMaybe you don’t need to prove\nEvery shadow in your history\nBefore I let you move\n\nCloser\n\n[Final Chorus]\n\nI believe you tonight\nWithout a contract\nWithout a sign\n\nWithout forever\nWithout a why\n\nLet tomorrow ask its questions\nLet tomorrow change my mind\nThere are truths that only need\nTo live a little while\n\nI believe you tonight\n\n[Outro — whispered]\n\nTomorrow\nI may ask again\n\nTonight\nI believe you",
+            "duration": 285.36,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Make the vocals less dramatic and keep the dry solemn tone with a British accent ",
+            "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 25.0,
+        "clip": {
+          "id": "5ed9e869-1225-4e4f-b202-535988b8958c",
+          "title": "Nóg",
+          "created_at": "2026-08-31T01:01:22.015Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "ambient, experimental, post-rock",
+          "metadata": {
+            "tags": "Ambient experimental Icelandic post-rock with a glacial, spacious atmosphere, now centered on a fragile high female lead vocal. Very slow tempo, minimal structure, long instrumental passages, bowed electric guitar, shimmering reverb-heavy guitar swells, low piano, deep drones, soft strings, and distant synth textures growing into enormous distorted crescendos. The female voice is intimate and breathy at first, gradually rising into aching sustained notes that blend with layered wordless choir harmonies. Sparse percussion early, then huge cavernous live drums entering late in the song, with lots of silence, decay, feedback, and natural room ambience. Melancholic, luminous, mysterious, emotionally overwhelming but reserved, avoiding conventional pop structure, obvious hooks, glossy production, or busy arrangements, with the “Nóg” mantra recurring and ending almost completely alone. Shortened overall length by removing one full verse-sized lyrical passage while preserving the overarching ",
+            "prompt": "\n[Inngangur — fjarlægar orðlausar raddir]\n\nAhhh—\n\nOoh—\n\n[langt hljóðfærabil]\n\n[Vers 1]\n\nÉg rakti ástæðuna\ní gegnum aðrar ástæður\n\nÉg nefndi þrýstinginn\nég nefndi þungann\n\nÉg dvaldi þar til orðin\nhöfðu ekkert meira\nað segja mér\n\nOg samt—\n\nvar eitthvað eftir\n\n[hljóðfærin rísa hægt]\n\n[Viðlag]\n\nOg þó—\n\neitthvað er eftir\n\nOg þó—\n\neitthvað er eftir\n\n[Vers 2]\n\nÉg hélt að skilningur\nmýkti það sem gerðist\n\nÉg hélt að síðasta „hvers vegna“\nsegði mér hvað ég ætti að gera\n\nEn hver skýring\nvarð að annarri setningu\n\nOg sárið\nvar þar enn\n\n[langt þögn]\n\nSvo hætti ég\n\nekki af því\nað ég vissi\n\nheldur af því\nað vitneskjan\n\nvar komin\nnógu langt\n\n[Kór]\n\nNóg\ntil að sjá\n\nNóg\ntil að svara\n\nNóg\ntil að halda\nhöndunum opnum\n\nNóg\ntil að vera\n\nNóg\ntil að fara\n\nNóg\ntil að vita\n\nað mér\ngetur skjátlast\n\nNóg\n\n[orðlausar raddir]\n\nAh-ah-ah—\n\nOoh—\n\n[Vers 3]\n\nÉg þarf ekki\nalla söguna\n\nÉg þarf ekki\nendalokin\n\nÉg get borið\nókláraða hugsun\n\nán þess\nað búa þar\n\nÉg get talað\nán þess að hækka röddina\n\nÉg get annast\nán þess að stjórna\n\nÉg get valið\n\nog valið aftur\n\n[hljóðfærin byggjast hægt upp]\n\n[Brú]\n\nEnginn friður\n\nEngin sönnun\n\nEngin endanleg mynd\nsem heldur öllu saman\n\nEngin skýr lína\nmilli þess að vita\n\nog þess\nað vera þekktur\n\nAðeins þetta—\n\nathygli\n\nAðeins þetta—\n\nsvar\n\nAðeins þetta—\n\nrýmið\náður en ég bæti við\n\nöðru sári\n\n[mikill orðlaus hápunktur]\n\nAhhh—\n\nAhhh—\n\n[Lokakór]\n\nNóg\ntil að sjá\n\nNóg\ntil að svara\n\nNóg\ntil að leyfa þögninni\n\nað vera\nókláraðri\n\nNóg\ntil að gera\n\nNóg\ntil að hætta\n\nNóg\ntil að skilja reikninginn eftir\n\nopinn\n\nEkki vissa—\n\nathygli\n\nEkki svör—\n\nábyrgð\n\nEkki lausn—\n\naðhald\n\n[allt fellur niður]\n\nNóg\n\n[Útgangur — næstum hvíslað]\n\nHeimurinn\nleysist ekki\n\nÉg verð hér\n\ní bili\n\n[ein fjarlæg rödd]\n\nNóg",
+            "duration": 457.0,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Let’s shorten the song by cutting out a verse and change it to a female voice",
+            "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 26.0,
+        "clip": {
+          "id": "f80b23a7-c974-4d5c-be23-62ca1204a626",
+          "title": "Learning to See",
+          "created_at": "2026-08-28T02:39:56.214Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "Celtic, new-age, cinematic",
+          "metadata": {
+            "tags": "Ethereal Celtic new-age with a soft female lead vocal, layered choir-like harmonies, shimmering synth pads, gentle piano, airy strings, subtle harp, low percussion, and occasional Celtic flute or whistle. Slow, spacious, meditative, and luminous, with a mystical but grounded atmosphere. Vocals should feel intimate and floating, with long reverb tails and simple melodic phrases that gradually build into a lush, enveloping chorus. Organic and cinematic, peaceful rather than dramatic, with lots of silence and breathing room.",
+            "prompt": "\n[Verse 1]\n\nI thought the world was clear\nI thought I knew the frame\nBut every way of seeing\nHad taught me what to name\n\n[Chorus]\n\nI am learning to see\nLearning to stay\nLearning to notice\nWhat I turned away\n\nI am learning to see\nLearning to leave\nA little room for wonder\nIn the things I believe\n\n[Verse 2]\n\nThe answer comes so quickly\nThe silence takes its time\nSome truths arrive like daylight\nSome wait beyond the mind\n\n[Chorus]\n\nI am learning to see\nLearning to stay\nLearning to notice\nWhat I turned away\n\nI am learning to see\nLearning to leave\nA little room for wonder\nIn the things I believe\n\n[Bridge]\n\nListen\nReturn\nRemember\nLearn\n\nLook again\nBegin again\n\n[Final Chorus]\n\nWe are learning to see\nLearning to be\nA little less certain\nA little more free\n\nThere is no final window\nThere is no final view\n\nOnly the light that reaches me\nAnd the light that reaches you\n\n[Outro]\n\nLook again\nReturn again\n\nLearning to see",
+            "duration": 295.44,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 27.0,
+        "clip": {
+          "id": "e51ba928-2b78-4b18-80e9-e164bbb5041f",
+          "title": "Somebody, Specifically",
+          "created_at": "2026-09-01T03:56:34.871Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "chamber pop, neo-classical",
+          "metadata": {
+            "tags": "Minimalist chamber pop / neo-classical with intimate piano, warm strings, subtle upright bass, and restrained percussion. Begin sparse and close, then slowly widen as the song moves from distance toward individual human detail. Lead vocal should be gentle, clear, reflective, and emotionally restrained rather than theatrical. Use repeating piano and string figures to suggest order and scale, while small imperfections, pauses, and acoustic textures keep the arrangement human. Let the chorus bloom slightly without becoming an anthem. The bridge should nearly stop on “Distance makes us simple / Come closer / We’re not,” then return with a warmer final chorus. Quiet, spacious, melancholy, humane, cinematic, and tender. Avoid glossy pop, huge orchestral swells, or sentimental melodrama.",
+            "prompt": "\n[Verse 1]\n\nFrom up on the hill\nthe whole city glows\n\nA thousand little windows\nall looking much the same\n\nCome a little closer\none light stays on late\n\nSomeone’s waiting for a phone call\nsomeone’s whispering a name\n\n[Chorus]\n\nSomebody, specifically\nis awake behind that light\n\nMissing someone\nholding someone\ntrying to make it through the night\n\nFrom far away we blur together\nclose enough, we don’t\n\nSomebody, specifically\nis living where you won’t\n\n[Verse 2]\n\nA crowd becomes a movement\na neighborhood, a shade\n\nBut every door you pass\nhas a thousand things unsaid\n\nSomeone laughs too loudly\nsomeone hasn’t slept\n\nSomeone keeps a promise\nno one else remembers yet\n\n[Bridge]\n\nDistance makes us simple\n\nCome closer\n\nWe’re not.\n\n[Final Chorus]\n\nSomebody, specifically\nis awake behind that light\n\nNot an example\nnot a symbol\njust a life\n\nFrom far away we blur together\nclose enough, we don’t\n\nSomebody, specifically\n\nSomeone you could know.",
+            "duration": 192.84,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 28.0,
+        "clip": {
+          "id": "0448b257-1736-4156-949d-5ee6e52cea1d",
+          "title": "The Blue Cup",
+          "created_at": "2026-08-28T02:30:48.551Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "folk, singer-songwriter, 1970s",
+          "metadata": {
+            "tags": "Warm, whimsical 1970s confessional folk singer-songwriter. Intimate female vocal with conversational, playful phrasing and occasional bittersweet turns. Intricate fingerpicked acoustic guitar, light piano, melodic bass, restrained brushed percussion, and subtle organic flourishes like dulcimer, woodwinds, or soft strings. Sophisticated, slightly unexpected chord changes and a loose, human rhythm. Storytelling-first arrangement that moves between humor, tenderness, and melancholy without becoming sentimental. Verses should feel curious and wandering, with melodies that follow the words naturally rather than a rigid pop structure. Organic vintage studio sound, literate and eccentric, emotionally warm but never overly polished.",
+            "prompt": "Verse 1\nYou bought that ugly blue cup\nat a roadside place in June\nWith a painted yellow rooster\nand a crack shaped like the moon\nI said, “Darling, it’s atrocious”\nyou said, “That’s why it came with me”\nNow it sits beside the window\nlike some minor deity\n\nVerse 2\nWe were younger in the kitchen\nwe were louder in those days\nYou could turn a missing teaspoon\ninto seventeen complaints\nI could make a little kingdom\nout of every wounded pride\nThen we’d sleep like two republics\nwith a border down the side\n\nChorus\nOh, the things that get remembered\naren’t the things we thought they’d be\nNot the roses, not the speeches\nnot the grand photography\nJust a rooster on a coffee cup\na coat left on a chair\nAnd somebody saying, “Take mine”\nwhen the cold gets in the air\n\nVerse 3\nOnce in November, somewhere southward,\nwe got lost beyond the lake\nYou blamed the folded paper map\nI blamed every turn you’d make\nThen the rain came down in buckets\nand the engine made a sound\nYou laughed until you scared me\nthen we pushed the damn thing out\n\nVerse 4\nLater underneath a service light\nwith grease across your sleeve\nYou said, “I know you’re mad at me”\nI said, “I haven’t tried to leave”\nAnd neither one was sorry\nnot in any useful way\nBut you gave me half your sandwich\nand I gave you yesterday\n\nChorus\nOh, the things that get remembered\naren’t the things we thought they’d be\nNot the roses, not the speeches\nnot the grand photography\nJust your hand across the dashboard\nwhen the tires start to slide\nAnd the funny little bargains\nthat keep two fools side by side\n\nBridge\nThere were years I thought I knew you\nlike a house I’d memorized\nEvery staircase, every window\nevery place the daylight hides\nThen you’d say some strange small sentence\nand the walls would all move back\nAnd I’d find another hallway\nI had somehow never mapped\n\nVerse 5\nNow the cup has lost its handle\nand the rooster’s nearly gone\nYou still drink from it on Sundays\nlike there’s nothing going on\nI could buy you something better\nI have threatened to for years\nBut I think I’d miss that rooster\nif he finally disappeared\n\nFinal Chorus\nSo the things that get remembered\naren’t the things we thought they’d be\nThey’re the scraps we kept returning to\nwithout a guarantee\nA blue cup by the window\na wet coat on the stair\nAnd somebody still beside you\nwhen you turn and find them there\n\nOutro\nYou bought that ugly blue cup\nat a roadside place in June\nThere’s a crack across the rooster now\nand another through the moon",
+            "duration": 288.64,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 29.0,
+        "clip": {
+          "id": "4f07263d-fd25-4942-87cb-6d14dec1c213",
+          "title": "Just Don’t Grab the Wheel",
+          "created_at": "2026-08-26T16:38:40.812Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": null,
+          "metadata": {
+            "tags": "country music as if it were sung by Country, Bluegrass, Folk, Pop",
+            "prompt": "Verse 1\n\nEverybody’s got directions\nFrom the safety of the seat,\nTelling you which road is foolish,\nWhich one’s sure to beat the heat.\nThere’s no shortage of conviction\nWhen somebody else pays the bill,\nSo backseat drive all you want, friend—\nJust don’t grab the wheel.\n\nChorus\n\nBackseat drive all you want,\nTell me every turn I missed.\nTell me where the road is headed,\nTell me why you’re sure of this.\nYou can talk like you’ve seen everything\nFrom here to Chapel Hill,\nBut backseat drive all you want—\nJust don’t grab the wheel.\n\nVerse 2\n\nI’ve known men who spoke in thunder\nWith a map they’d never read,\nHad an answer for the living\nAnd instructions for the dead.\nThey could tell you what was broken,\nWho was weak and who was strong,\nBut certainty gets expensive\nWhen the certain man is wrong.\n\nChorus\n\nBackseat drive all you want,\nTell me every turn I missed.\nTell me where the road is headed,\nTell me why you’re sure of this.\nYou can talk like you’ve seen everything\nFrom here to Chapel Hill,\nBut backseat drive all you want—\nJust don’t grab the wheel.\n\nBridge\n\nThere’s nothing wrong with wondering,\nNothing wrong with being sure,\nBut leave yourself a little room\nFor what you haven’t learned.\nSome mistakes are just a story,\nSome mistakes become a scar,\nAnd it matters who gets handed\nThe keys to someone else’s car.\n\nFinal Chorus\n\nSo backseat drive all you want,\nI might even hear you out.\nMaybe you know something useful,\nMaybe I should change my route.\nBut opinions ain’t the same thing\nAs the right to bend my will.\nBackseat drive all you want—\nJust don’t grab the wheel.",
+            "duration": 254.04,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 30.0,
+        "clip": {
+          "id": "9d40a54e-6d77-4beb-b41c-73cea6a4a6c0",
+          "title": "My Shadow Got There First (Short 8-Bit Edit)",
+          "created_at": "2026-08-31T00:33:24.610Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "Delta blues, chiptune, lo-fi",
+          "metadata": {
+            "tags": "Mississippi Delta blues fused with more prominent lo-fi 8-bit chiptune textures. Raw, weathered male vocal over a slow, swampy groove with resonator slide guitar, acoustic guitar, foot-stomp percussion, upright bass, and heavy tape hiss, vinyl crackle, and room ambience. Thread multiple detuned square-wave and triangle-wave melodies through the arrangement as an insistent digital shadow, with bit-crushed arpeggios, simple counter-lines, and glitchy call-and-response figures that gradually grow more present and intrusive. The electronic phrases anticipate, double, and interrupt the slide guitar and vocal, adding eerie, mechanized tension while keeping the overall palette dusty, minimal, hypnotic, and darkly surreal. Structured as a tightened short edit with one fewer verse and more concentrated interplay between human blues phrasing and rigid 8-bit motifs.",
+            "prompt": "\n[Intro]\nMm.\nFunny thing about a shadow—\nsupposed to follow you.\n\n[Verse 1]\nWoke up this morning,\nsomebody’d been wearing my name.\nWoke up this morning,\nsomebody’d been wearing my name.\nKnew the doors I’d knocked on,\nknew every town from where I came.\n\n[Verse 2]\nI walked down to the crossing,\nman said, “I know your kind.”\nWalked down to the crossing,\nhe said, “I know your kind.”\nHad a page full of my footsteps,\nbut he never asked my mind.\n\n[Chorus]\nMy shadow got there first,\nsitting in my chair.\nMy shadow got there first,\ntelling folks I’m already there.\nKnows everywhere I’ve wandered—\ndon’t know what carried me there.\n\n[Verse 3]\nIt knows what I been buying,\nknows the songs I play at night.\nKnows what I been buying,\nknows the songs I play at night.\nGot a mighty good notion\nwhat I’m gonna do by daylight.\n\n[Instrumental Break]\n[Raw slide-guitar phrase answered by a small 8-bit melody]\n[The electronic phrase repeats, simplified and slightly early]\n\n[Chorus]\nMy shadow got there first,\nsitting in my chair.\nMy shadow got there first,\ntelling folks I’m already there.\nKnows everywhere I’ve wandered—\ndon’t know what carried me there.\n\n[Bridge]\nYou can count every mile.\nYou can number every scar.\nYou can guess where I’m going\nfrom the places that I are—\n\nNo.\n\nYou can guess where I’m going\nfrom the places that I’ve been.\nBut a man ain’t just the footsteps\nthat somebody gathered in.\n\n[Verse 4]\nMaybe yesterday I stumbled.\nMaybe tomorrow I won’t.\nMaybe yesterday I stumbled.\nMaybe tomorrow I won’t.\nYou can tell me what I’m likely—\nthat ain’t the same as what I’m gonna.\n\n[Break]\n[The 8-bit melody anticipates the singer’s next blues lick]\n\nYou know where I been—\n\n[8-bit phrase finishes the musical line]\n\n…yeah.\n\nBut you don’t know why.\n\n[Final Chorus]\nMy shadow got there first,\nwearing something like my face.\nMy shadow got there first,\nalready standing in my place.\nYou can know the trail behind me—\nstill not know the man you chase.\n\n[Outro]\nSo if my shadow comes calling\nbefore I make it through your door,\nsave one chair for the stranger\nyou ain’t calculated for.\n\nMm.\n\nShadow knows my footsteps.\n\nBut it never learned my walk.",
+            "duration": 469.76,
+            "task": "cover",
+            "is_remix": true,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            },
+            "gpt_description_prompt": "Let’s trim a verse and make a short edit of this song.  Also add more electronic 8-bit chiptune sounds.",
+            "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+            "edited_clip_id": "00000000-0000-0000-0000-000000000000"
+          }
+        }
+      },
+      {
+        "relative_index": 31.0,
+        "clip": {
+          "id": "d41fdeca-e505-458e-9949-02197e782818",
+          "title": "Somebody Feels It",
+          "created_at": "2026-09-01T03:20:46.674Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "roots dub reggae, dub",
+          "metadata": {
+            "tags": "Roots dub reggae with a deep, spacious, hypnotic groove. Slow-to-mid tempo, huge warm sub-bass, one-drop drums, skanking guitar, sparse organ bubbles, hand percussion, and lots of tape delay, spring reverb, echo, dropouts, and negative space. Intimate male lead vocal with calm, restrained, slightly weary phrasing rather than a bright reggae-pop delivery. Let key phrases like “Somebody feels it,” “Nothing personal,” and “The cost goes somewhere” repeat and dissolve into long dub echoes.\n\nKeep the arrangement minimal and physical. Verses should feel close and conversational; choruses should widen through layered echoes rather than getting louder or more anthemic. During the dub break, fragment the vocals into drifting call-and-response phrases while bass and percussion carry the track. Dark, thoughtful, nocturnal, human, and slightly ominous. Avoid glossy pop-reggae, ska energy, cheerful island clichés, or overly busy production.",
+            "prompt": "\n[Intro]\n\nPush it away\nPass it along\nCall it a number\n\nSomebody feels it\n\nFeels it…\nfeels it…\n\n[Verse 1]\n\nYou said the words\nthen left the room\nYou slept just fine\nI wore them home\n\nSmall in your mouth\nheavy in mine\nGone from your hands\nstill taking time\n\n[Chorus]\n\nSomebody feels it\nSomebody knows\nWhere the weight lands\nafter it goes\n\nMove it downstream\nout of your sight\nSomebody carries\nthe rest of the night\n\nSomebody feels it\n\n[Verse 2]\n\nA number changed\nsomewhere away\nA little more\nsomebody pays\n\nA route gets longer\na door stays shut\nA little is saved\na little gets cut\n\nNothing disappears\nbecause we don’t bear it\n\n[Dub Break]\n\nJust a little change…\nchange… change…\n\nNothing personal…\npersonal…\n\nNo one meant harm…\nharm… harm…\n\n[Bridge]\n\nMaybe you had to choose.\n\nMaybe I would have chosen\nthe same thing too.\n\nBut knowing the reason\ndoesn’t lift the weight.\n\nBeing far away\ndoesn’t make it weightless.\n\n[Final Chorus]\n\nSomebody feels it\nSomebody knows\nEvery decision\nhas somewhere it goes\n\nMove it downstream\ncall it complete\nSomewhere the echo\nis learning to breathe\n\nSomebody feels it\n\nFeels it…\nfeels it…\n\n[Outro]\n\nThe cost goes somewhere.\n\nSomewhere…\nsomebody…",
+            "duration": 262.84,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 32.0,
+        "clip": {
+          "id": "0e7cea27-60da-497f-9dc3-a178dfefec78",
+          "title": "Mr. Bell Keeps the Weather",
+          "created_at": "2026-09-03T02:16:32.410Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "piano blues, cabaret, noir",
+          "metadata": {
+            "tags": "Dark theatrical piano blues with a crooked late-night cabaret feel. Deep, gravelly male baritone with a raspy, weathered voice, delivered half-sung and half-spoken with dramatic pauses, dry humor, and vivid character storytelling. Piano should dominate the arrangement: heavy low-register chords, dissonant flourishes, sudden pounding crescendos, and long expressive instrumental passages. Add bowed upright bass, sparse brushed drums, creaking percussion, distant metallic clanks, room noise, and subtle organ or accordion textures. Slow-to-mid tempo, minor-key, noir, surreal, intimate, and slightly menacing. Let the arrangement grow from lonely upright piano into a huge, almost cinematic final section, then collapse back to one unresolved piano chord. Avoid polished pop production, bright guitars, clean vocals, or conventional blues clichés.",
+            "prompt": "\n[Verse 1]\n\nMr. Bell lives over the laundromat\nwhere the dryers shake the floor\nKeeps seventeen broken barometers\nnailed above his door\n\nThere’s a photograph of Cleveland\nthere’s a tooth inside a jar\nthere’s a postcard from a woman\nwho never said where they are\n\nEvery night at half past eleven\nsomeone asks him, “Think it’ll rain?”\n\nHe looks up like the sky owes him money\nand says,\n“Could go either way.”\n\n[Verse 2]\n\nHe used to read the weather\non Channel Number Nine\nBack when men wore narrow neckties\nand the forecast had a sign\n\nThey gave him forty-seven seconds\nto explain the shape of wind\n\nHe said, “There’s something coming westward.”\nThey said, “Just tell the people when.”\n\nSo Bell pointed at the blue part\nand promised them the storm\n\nAnd somewhere fifty miles north\na little girl was born\nbeneath a sky\nthat never changed at all.\n\n[Chorus]\n\nOh, Mr. Bell keeps the weather\nin boxes by the stairs\nThunder in the dresser drawer\nfog tangled in the chairs\n\nHe says,\n“The sky don’t break a promise, son.\nThe promise wasn’t his.”\n\nThen he listens to the pipes knock twice\n\nlike they know something\nwe missed.\n\n[Verse 3]\n\nThere’s a notebook in his kitchen\nbound in peeling leather skin\ncalled Weather That Did Not Occur\nwith the years all written in\n\nJune the third: no tornado\nAugust twelve: no hail\nNovember twenty-seven:\nwind predicted, wind failed\n\nI asked him why he kept them,\nall those storms that never came\n\nHe said,\n“Everybody keeps what happened.\n\nSomebody ought to keep\nwhat almost did.”\n\n[Piano Interlude]\n\n[Slow, enormous piano chords; bowed bass; the room itself seems to hum]\n\n[Verse 4]\n\nLast winter Bell went missing\naround the first hard freeze\nHis landlord found the windows open\nand snow across the keys\n\nThe television whispered\nto nobody in the room:\n\nNinety percent chance of snowfall\ncontinuing through noon.\n\nHis coffee cup was empty\nHis old brown coat was gone\n\nEvery barometer pointed somewhere\ndifferent before dawn\n\nAnd taped across the kitchen wall\nin letters black and small:\n\nDON’T CONFUSE THE ODDS\nWITH WHAT HAPPENS\nAFTER ALL.\n\n[Final Chorus]\n\nNow Mr. Bell keeps the weather\nsomewhere out of town\n\nMaybe underneath the river\nMaybe six feet underground\n\nAnd when somebody tells me\nthey know exactly what comes next\n\nI hear that old piano upstairs\nand Bell clearing his chest:\n\n“The sky don’t owe you certainty.\n\nIt barely owes you rain.”\n\n[Outro]\n\nCould go either way.\n\nCould go either way.\n\nCould—\n\n[piano chord]\n\n—go either way.",
+            "duration": 317.0,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 33.0,
+        "clip": {
+          "id": "dd1efa5f-d990-4737-b13d-fc71691b705e",
+          "title": "Miss Maybe & Mister Sure",
+          "created_at": "2026-08-29T02:23:49.344Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "hot jazz, swing revival, vaudeville",
+          "metadata": {
+            "tags": "Old-time Southern hot jazz and swing revival with a mischievous vaudeville feel. Bouncy banjo, upright bass, snappy brushed drums, clarinet, trumpet, trombone, muted brass, and occasional piano fills. Playful stop-start arrangements, horn stabs, brief instrumental breaks, and loose live-band energy.\n\nA theatrical male/female duet: the female vocalist is sly, smoky, bright, and flapper-like with teasing cabaret phrasing; the male vocalist is a warm, charming, slightly pompous vintage crooner. Lots of call-and-response, spoken interjections, overlapping lines, comic timing, and flirtatious argument.\n\nFast, swinging, witty, slightly dangerous, and a little absurd, like a 1920s speakeasy floor show going charmingly off the rails. Minor-key touches underneath the humor, with a big brass-heavy final chorus and a sharp vaudeville ending sting.",
+            "prompt": "\n[Intro — both, spoken over banjo and brass]\n\nMISTER SURE:\nNow, darling, there are certain things a gentleman simply knows.\n\nMISS MAYBE:\nIs that so?\n\nMISTER SURE:\nAbsolutely.\n\nMISS MAYBE:\nOh, this oughta be good.\n\n⸻\n\n[Verse 1 — Mister Sure]\n\nI know the moon comes up at night,\nI know a wrong man from a right,\nI know a wink means come on through,\nAnd honey, I know what you meant too.\n\n[Miss Maybe]\n\nYou know the moon, you know the stars,\nYou know the saints from corner bars,\nYou know my mind from one small clue—\n\n[Mister Sure]\n\nPrecisely, dear.\n\n[Miss Maybe]\n\nWell, bless your shoe.\n\n⸻\n\n[Chorus — alternating]\n\nMISS MAYBE:\nMaybe yes—\n\nMISTER SURE:\nCertainly!\n\nMISS MAYBE:\nMaybe no—\n\nMISTER SURE:\nObviously!\n\nMISS MAYBE:\nMaybe the truth took off its hat\nAnd slipped out through the kitchen flat.\n\nMISTER SURE:\nThere’s no great mystery, I assure—\n\nMISS MAYBE:\nSays Miss Maybe—\n\nMISTER SURE:\nAnd Mister Sure!\n\n⸻\n\n[Verse 2 — Miss Maybe]\n\nI said, “That coat looks mighty fine,”\nYou heard, “Come home and make me thine.”\nI said, “The evening sure is warm,”\nYou bought a ring and raised alarm.\n\nMISTER SURE:\nA lady’s words are subtle things,\nThey flutter soft on hidden wings.\n\nMISS MAYBE:\nOr maybe words are words, mon cher,\nAnd all those wings came from your chair.\n\n⸻\n\n[Brass break]\n\nMISTER SURE, spoken:\nYou are a difficult woman.\n\nMISS MAYBE:\nMaybe.\n\n⸻\n\n[Verse 3 — Mister Sure]\n\nI know when silence means disdain,\nI know when laughter hides the pain,\nI know when “fine” means “go away”—\n\nMISS MAYBE:\nYou’ve built yourself a busy day.\n\nMISTER SURE:\nYou hesitate, therefore you doubt.\n\nMISS MAYBE:\nOr maybe I’m just thinking it out.\n\nMISTER SURE:\nYou see? You prove my point once more.\n\nMISS MAYBE:\nWhat point was that, Professor Sure?\n\n⸻\n\n[Chorus — both]\n\nMISS MAYBE:\nMaybe yes—\n\nMISTER SURE:\nCertainly!\n\nMISS MAYBE:\nMaybe no—\n\nMISTER SURE:\nObviously!\n\nMISS MAYBE:\nMaybe your facts got dressed too soon\nAnd strutted proudly round the room.\n\nMISTER SURE:\nA thing is settled once we’re sure—\n\nMISS MAYBE:\nWho’s “we,” exactly, Mister Sure?\n\n⸻\n\n[Bridge — slower, sly duet]\n\nMISS MAYBE:\nYou like the door shut nice and tight.\n\nMISTER SURE:\nA gentleman must choose what’s right.\n\nMISS MAYBE:\nYou like the ending neatly tied.\n\nMISTER SURE:\nIt keeps the troublesome things outside.\n\nMISS MAYBE:\nBut every lock forgets a key.\n\nMISTER SURE:\nThat sounds suspiciously like philosophy.\n\nMISS MAYBE:\nMaybe, darling.\n\nMISTER SURE:\n…Don’t start.\n\n⸻\n\n[Verse 4 — both, trading faster]\n\nMISTER SURE:\nYou said you’d never fall for me.\n\nMISS MAYBE:\nI said, “We’ll have to wait and see.”\n\nMISTER SURE:\nThat’s practically the same affair.\n\nMISS MAYBE:\nOnly if you supply half there.\n\nMISTER SURE:\nYou kissed me once behind the band!\n\nMISS MAYBE:\nA fact at last! Now ain’t that grand?\n\nMISTER SURE:\nSo you admit—\n\nMISS MAYBE:\nI kissed you, sure.\n\nMISTER SURE:\nAha!\n\nMISS MAYBE:\nDon’t get excited, Mister Sure.\n\n⸻\n\n[Final Chorus — full band]\n\nMISS MAYBE:\nMaybe yes—\n\nMISTER SURE:\nMost certainly!\n\nMISS MAYBE:\nMaybe no—\n\nMISTER SURE:\nNow wait and see—\n\nMISS MAYBE:\nWell look at you, you learned a phrase!\n\nMISTER SURE:\nDon’t make a habit of your praise.\n\nBOTH:\nThe world keeps spinning, that’s for sure,\nBut what it means—\n\nMISS MAYBE:\nWell, maybe—\n\nMISTER SURE:\n…I’m not sure.\n\n⸻\n\n[Outro — music stops]\n\nMISS MAYBE:\nDid you just say you’re not sure?\n\nMISTER SURE:\nI most certainly did not.\n\nMISS MAYBE:\nMaybe I heard you wrong.\n\nMISTER SURE:\nExactly.\n\nMISS MAYBE:\nOh, hush.\n\n[brass sting]",
+            "duration": 250.4,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 34.0,
+        "clip": {
+          "id": "0fb0dec5-1a14-4aad-a0a9-d41fc92acc44",
+          "title": "Obviously, Baby",
+          "created_at": "2026-09-05T00:08:00.261Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "art-funk, funk",
+          "metadata": {
+            "tags": "Dirty, decadent art-funk with a late-1990s/early-2000s feel. Midtempo, greasy groove with rubbery bass, wah-wah guitar, clavinet, punchy live drums, handclaps, nasty horn stabs, distorted synth accents, and loose funky fills.\n\nMale lead vocal is smug, playful, theatrical, and constantly slipping into very high falsetto. Make “Obviously, baby!” a huge stacked falsetto hook. Verses should be dry, conversational, and ironic, with the narrator sounding irresistibly confident while obviously misunderstanding everything.\n\nUse call-and-response backing vocals, funky breakdowns, abrupt stops for spoken jokes, breathy ad-libs, squeals, and exaggerated vocal flourishes. Rawer and sweatier than polished pop: sexy, ridiculous, cocky, slightly sleazy, and irresistibly danceable.",
+            "prompt": "[Intro — spoken, smug]\n\nObviously, baby.\n\nYou don’t have to explain.\n\nI already know.\n\n[Verse 1]\n\nYou said, “I’m tired,”\nI heard, “Come a little closer.”\n\nYou looked toward the door,\nI thought, “She wants me over.”\n\nYou paused for a second,\nI knew what that meant.\n\nI’ve got a gift for interpretation,\nbaby, heaven-sent.\n\nYou said, “That’s not what I—”\n\nShhh.\n\nI understand.\n\n[Pre-Chorus]\n\nOne look,\none word,\none tiny little sign—\n\nWhy waste a beautiful evening\nasking what was on your mind?\n\n[Chorus — huge falsetto]\n\nObviously, baby!\nI know exactly what you mean!\n\nObviously, baby!\nI see everything between!\n\nNo confusion,\nno mystery,\nnothing hiding underneath—\n\nObviously, baby!\n\nOoh!\n\nIt’s obvious to me!\n\n[Verse 2]\n\nYou didn’t call Tuesday.\n\nObviously, you’re scared.\n\nYou called me Wednesday.\n\nObviously, you care.\n\nYou said, “We should talk.”\n\nThat practically means forever.\n\nYou said, “I need some space.”\n\nSo I booked us somewhere together.\n\nYou said, “Please stop doing that.”\n\nI know.\n\nYou love when I’m spontaneous.\n\n[Chorus]\n\nObviously, baby!\nI know exactly what you mean!\n\nObviously, baby!\nI see everything between!\n\nNo confusion,\nno mystery,\nnothing hiding underneath—\n\nObviously, baby!\n\nIt’s obvious to me!\n\n[Funk break — spoken]\n\nRead the signal.\n\nKnow the signal.\n\nBaby—\n\nI am the signal.\n\n[Verse 3]\n\nMy boss said, “Interesting.”\n\nPromotion’s on the way.\n\nMy doctor said, “Let’s watch it.”\n\nMeans everything’s okay.\n\nMy friend said, “Have you considered\n\nyou might occasionally be wrong?”\n\nI said, “That’s exactly the problem—\n\nyou’ve misunderstood me all along.”\n\nPeople hear what they want to hear.\n\n[Bridge — falsetto]\n\nI don’t need another angle,\n\nI don’t need another view.\n\nWhy collect unnecessary data\n\nwhen I already know what’s true?\n\nThere’s a simple explanation—\n\nand it’s obviously—\n\nBABY!\n\n[Final Chorus]\n\nObviously, baby!\nI know exactly what you mean!\n\nObviously, baby!\nReality is nice and clean!\n\nEvery question\nhas an answer,\n\nand the answer agrees with me—\n\nObviously, baby!\n\nIt’s obvious to me!\n\nObviously, baby!\n\nNo need to look again!\n\nObviously, baby!\n\nI can tell you how this ends!\n\n[Music stops]\n\n[Spoken female voice]\n\nYou know I’m leaving you, right?\n\n[Long pause]\n\n[Male voice]\n\n…\n\nObviously.\n\n[Beat crashes back]\n\n[Outro — falsetto]\n\nOBVIOUSLY!\n\nObviously, baby!\n\nI knew it all along!\n\n[spoken]\n\nExactly as I predicted.\n\nMore or less.\n\nBaby?",
+            "duration": 244.76,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 35.0,
+        "clip": {
+          "id": "18f0ea74-640a-4ae5-b07e-ae8f1cb6f70e",
+          "title": "Applause Is an Alibi",
+          "created_at": "2026-09-01T03:39:17.767Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": "dark cabaret, theatrical art rock",
+          "metadata": {
+            "tags": "Dark cabaret / theatrical art rock with a sly, sinister stage-show feel. Mid-tempo piano, upright bass, brushed drums, occasional accordion and muted brass, with dramatic stops and slightly off-kilter vaudeville energy. Expressive lead vocal: wry, intimate, theatrical, and increasingly unsettling without becoming cartoonish. Verses should feel like scenes presented to an audience; choruses widen slightly without turning into pop-rock. Add sparse claps, whispered backing vocals, and brief call-and-response on “halo,” “monster,” “hero,” and “fraud.” Strip down for the spoken cabaret break, then make the bridge more vulnerable. End with nearly bare piano and the dry spoken line: “You may now distrust the lighting.” Elegant, darkly funny, morally ambiguous, and slightly menacing. Avoid Broadway bombast, novelty-cabaret cheese, and glossy pop production.",
+            "prompt": "\n[Intro — spoken]\n\nLadies and gentlemen\nYou know your parts\n\nThe halo enters from the left\nThe monster from the right\n\n[Verse 1]\n\nHe walks in gold\nWe know the cue\n\nAnything ugly\nstays out of view\n\nDon’t ask too much\nDon’t spoil the show\n\nWe love him dearly\nIsn’t that enough to know?\n\n[Chorus]\n\nApplause is an alibi\nClap your hands and close your eyes\n\nIf everybody loves him\nhow bad could he be?\n\nAnd booing is a verdict\nBefore the evidence arrives\n\nIf everybody hates her\nwhat else could she be?\n\n[Verse 2]\n\nBring her out\nDim the light\n\nEvery mistake\nproves we were right\n\nEvery kindness\ngets explained away\n\nOnce you’ve made a monster\nthe person fades away\n\n[Cabaret Break — spoken]\n\nPolish the halo\nSharpen the horns\n\nSaint\nMonster\n\nHero\nFraud\n\nMuch easier\n\n[Bridge]\n\nThe saint can still do damage\nAnd the monster can still bleed\n\nYou can love without exemption\nYou can judge without erasure\n\n[Final Chorus]\n\nApplause is not an alibi\nBooing is not proof\n\nLove them if you love them\nJust leave room for truth\n\nCondemn what needs condemning\nBut leave the costume on the floor\n\nA person can be guilty\nAnd still be something more\n\n[Outro — spoken]\n\nThe halo was cardboard\n\nThe horns were too\n\nYou may now distrust the lighting.",
+            "duration": 165.12,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "relative_index": 36.0,
+        "clip": {
+          "id": "7383b724-e964-4269-b8f2-de3089cf1674",
+          "title": "Still We Go",
+          "created_at": "2026-08-31T01:23:16.873Z",
+          "model_name": "chirp-auk",
+          "major_model_version": "v4.5-all",
+          "display_tags": null,
+          "metadata": {
+            "tags": "Bright, joyful African choral anthem with a large mixed choir, powerful call-and-response vocals, layered harmonies, handclaps, stomps, ululation, and energetic traditional percussion. Sung primarily in Swahili, with expressive solo voices answered by the full ensemble. Fast, buoyant rhythm with warm hand drums, shakers, bells, marimba-like melodic percussion, subtle bass, and occasional brass or flute accents. Cinematic and theatrical but organic, communal, playful, and deeply uplifting. Build from a simple solo opening into increasingly huge choir sections, with a lively percussion dance break and an explosive final chorus around “BADO TUNAENDA!” and “INATOSHA!” Keep the melodies simple, memorable, and easy for a crowd to sing. Avoid electronic dance production, pop-rock guitars, or solemn gospel; this should feel sunlit, rhythmic, celebratory, and alive.",
+            "prompt": "\n[Intro — solo / choir]\n\n[Solo]\nHatujui yote.\n\n[Choir]\nLakini tupo hapa!\n\n[Solo]\nHatuoni yote.\n\n[Choir]\nLakini tupo hapa!\n\n[Solo]\nTwende!\n\n[Choir]\nPamoja!\n\n[All]\nBADO TUNAENDA!\n\n⸻\n\n[Verse 1]\n\nTuliona upande mmoja\nTukasema, “Hii ndiyo yote”\n\n[Choir]\nSiyo yote!\n\nSauti nyingine ikaja\nDunia ikawa kubwa tena\n\nNilikuwa na jibu mkononi\nNikafungua mkono wangu\n\nSasa sijui yote—\n\n[Choir]\nNa hiyo ni sawa!\n\n⸻\n\n[Pre-Chorus]\n\nLeo tunaona kidogo\nKesho tunaona zaidi\n\nLeo tunajua kidogo\nKesho tutajifunza tena\n\n[Solo]\nJe, tunasubiri?\n\n[Choir]\nHAPANA!\n\n[All]\nTWENDE!\n\n⸻\n\n[Chorus]\n\nBado tunaenda!\nBado tunaenda!\nHatuna majibu yote\nBado tunaenda!\n\nSikiliza, angalia\nBado tunaenda!\n\nHatuhitaji kujua yote\nIli tupende\nIli tutende\n\nShika mkono wangu\nImba pamoja nami\n\nBado tunaenda\nPamoja!\n\n⸻\n\n[Verse 2]\n\nNinaweza kusema, “Sijui”\nNa bado nikachagua\n\nNinaweza kubadilika\nNa bado nikawa mimi\n\nNinaweza kusikiliza\nBila kupoteza sauti yangu\n\nNinaweza kuona macho yako\nBila kufunga yangu\n\n[Choir]\nOna tena!\n\n⸻\n\n[Chorus]\n\nBado tunaenda!\nBado tunaenda!\nHatuna majibu yote\nBado tunaenda!\n\nSikiliza, angalia\nBado tunaenda!\n\nHatuhitaji kujua yote\nIli tupende\nIli tutende\n\nBado tunaenda\nPamoja!\n\n⸻\n\n[Dance Break — drums / claps / choir]\n\nTwende!\nTwende!\n\nPamoja!\nPamoja!\n\nBado!\nBado!\n\nTunaenda!\n\n⸻\n\n[Bridge — call and response]\n\n[Solo]\nSijui yote!\n\n[Choir]\nHIYO SI MWISHO!\n\n[Solo]\nNinaona kidogo!\n\n[Choir]\nPAMOJA TUNAONA ZAIDI!\n\n[Solo]\nNinaweza kukosea!\n\n[Choir]\nJIFUNZE TENA!\n\n[Solo]\nNa kama bado sijui?\n\n[Choir]\nBADO TUNAENDA!\n\n⸻\n\n[Build]\n\nSikiliza!\nAngalia!\nUliza!\nJifunza!\n\nLeo kidogo\nKesho zaidi\n\nHatuna yote\nHatuhitaji yote\n\n[Silence]\n\n[Solo]\nInatosha.\n\n[Choir]\nInatosha.\n\n[All]\nINATOSHA!\n\n⸻\n\n[Final Chorus]\n\nBADO TUNAENDA!\nBADO TUNAENDA!\nHatuna majibu yote\nBADO TUNAENDA!\n\nMoyo wazi, macho wazi\nBADO TUNAENDA!\n\nHatuhitaji kujua yote\nIli tupende\nIli tutende\n\nLeo tunajua kidogo\nKesho tutajifunza\n\nNa leo—\n\nINATOSHA!\n\nPamoja!\nPamoja!\n\nBado tunaenda!\n\n⸻\n\n[Outro]\n\nHatujui yote.\n\n[Choir]\nInatosha.\n\n[Solo]\nNa kesho?\n\n[Choir]\nTutajifunza!\n\n[All]\nBADO TUNAENDA!",
+            "duration": 344.76,
+            "task": "",
+            "is_remix": false,
+            "type": "gen",
+            "model_badges": {
+              "songrow": {
+                "display_name": "v4.5-all",
+                "light": {
+                  "text_color": "7D7C83",
+                  "background_color": "00000000",
+                  "border_color": "0000001A"
+                },
+                "dark": {
+                  "text_color": "A3A3A3",
+                  "background_color": "00000000",
+                  "border_color": "FFFFFF1A"
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

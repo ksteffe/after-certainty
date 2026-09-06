@@ -1,0 +1,59 @@
+slug: obviously-baby
+title: Obviously, Baby
+shortDescription: 'Decadent art-funk satire: smug falsetto certainty that already knows what every pause
+  and silence means—obviously.'
+longDescription: Greasy groove and theatrical falsetto lampoon interpretation as performance. Every tired
+  look becomes invitation; every need for space becomes a vacation booking. The comedy lands when projection
+  meets a plain sentence the narrator still absorbs into the script. How Meaning Moves and Everyone Knows
+  Love map intent-gets-assigned and gaps-invite-completion; Curiosity Before Certainty fits the refusal
+  to collect another angle when the answer already agrees with me. The spoken punchline exposes certainty’s
+  cost.
+creatorNames:
+- Kevin Steffensen
+lyricsPath: corpus/songs/obviously-baby.md
+lyricLanguages:
+- en
+relatedConcepts:
+- interpretation
+- certainty
+- bias
+- meaning
+relatedPatterns:
+- intent-gets-assigned
+- gaps-invite-completion
+- meaning-outruns-the-words
+relatedBooks:
+- how-meaning-moves
+- everyone-knows-love
+- curiosity-before-certainty
+recordings:
+- platform: suno
+  externalId: 0fb0dec5-1a14-4aad-a0a9-d41fc92acc44
+  primary: true
+  recordingTitle: Obviously, Baby
+  createdAt: '2026-09-05T00:08:00.261Z'
+  durationSeconds: 244.76
+  modelName: chirp-auk
+  modelVersion: v4.5-all
+  task: gen
+  isRemix: false
+  styleTags: |-
+    Dirty, decadent art-funk with a late-1990s/early-2000s feel. Midtempo, greasy groove with rubbery bass, wah-wah guitar, clavinet, punchy live drums, handclaps, nasty horn stabs, distorted synth accents, and loose funky fills.
+
+    Male lead vocal is smug, playful, theatrical, and constantly slipping into very high falsetto. Make “Obviously, baby!” a huge stacked falsetto hook. Verses should be dry, conversational, and ironic, with the narrator sounding irresistibly confident while obviously misunderstanding everything.
+
+    Use call-and-response backing vocals, funky breakdowns, abrupt stops for spoken jokes, breathy ad-libs, squeals, and exaggerated vocal flourishes. Rawer and sweatier than polished pop: sexy, ridiculous, cocky, slightly sleazy, and irresistibly danceable.
+generation:
+  authoredPrompt: |-
+    Dirty, decadent art-funk with a late-1990s/early-2000s feel. Midtempo, greasy groove with rubbery bass, wah-wah guitar, clavinet, punchy live drums, handclaps, nasty horn stabs, distorted synth accents, and loose funky fills.
+
+    Male lead vocal is smug, playful, theatrical, and constantly slipping into very high falsetto. Make “Obviously, baby!” a huge stacked falsetto hook. Verses should be dry, conversational, and ironic, with the narrator sounding irresistibly confident while obviously misunderstanding everything.
+
+    Use call-and-response backing vocals, funky breakdowns, abrupt stops for spoken jokes, breathy ad-libs, squeals, and exaggerated vocal flourishes. Rawer and sweatier than polished pop: sexy, ridiculous, cocky, slightly sleazy, and irresistibly danceable.
+  authoredPromptSource: suno-playlist
+  authoredPromptRetrievedAt: '2026-09-06'
+editorialStatus: provisional
+grounding:
+  type: original_synthesis
+  note: After Certainty song composition; lyrics and style prompt ingested from the Suno playlist snapshot
+    without rewriting existing song entries.
