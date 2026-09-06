@@ -12,7 +12,7 @@ REPO = Path(__file__).resolve().parents[1]
 def test_song_yaml_count_and_primary_recording() -> None:
     songs_dir = REPO / "semantic" / "songs"
     paths = sorted(songs_dir.glob("*.yml"))
-    assert len(paths) == 32
+    assert len(paths) == 36
     for path in paths:
         doc = yaml.safe_load(path.read_text(encoding="utf-8"))
         assert doc["slug"] == path.stem
@@ -31,7 +31,7 @@ def test_playlist_resolves_to_songs() -> None:
         (REPO / "semantic" / "playlists" / "after-certainty.yml").read_text(encoding="utf-8")
     )
     assert playlist["slug"] == "after-certainty"
-    assert len(playlist["tracks"]) == 32
+    assert len(playlist["tracks"]) == 36
     song_slugs = {p.stem for p in (REPO / "semantic" / "songs").glob("*.yml")}
     for track in playlist["tracks"]:
         assert track["songSlug"] in song_slugs
@@ -42,7 +42,7 @@ def test_manifest_includes_songs_and_reverse_links(semantic_manifest: dict) -> N
     assert semantic_manifest["schemaVersion"] == "2.6"
     songs = semantic_manifest.get("songs") or []
     playlists = semantic_manifest.get("playlists") or []
-    assert len(songs) == 32
+    assert len(songs) == 36
     assert len(playlists) == 1
     assert playlists[0]["slug"] == "after-certainty"
     by_slug = {s["slug"]: s for s in songs}

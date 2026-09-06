@@ -6,7 +6,7 @@ Dev-only tool. Does not write semantic files. Never contacts Suno unless
 
 Usage:
   python3 tools/songs/reconcile_suno_playlist.py
-  python3 tools/songs/reconcile_suno_playlist.py --fixture tools/songs/fixtures/suno-playlist-2026-09-04.json
+  python3 tools/songs/reconcile_suno_playlist.py --fixture tools/songs/fixtures/suno-playlist-2026-09-06.json
 """
 
 from __future__ import annotations
@@ -24,11 +24,21 @@ except ModuleNotFoundError as exc:  # pragma: no cover
     raise SystemExit("PyYAML is required") from exc
 
 REPO = Path(__file__).resolve().parents[2]
-DEFAULT_FIXTURE = REPO / "tools" / "songs" / "fixtures" / "suno-playlist-2026-09-04.json"
+DEFAULT_FIXTURE = REPO / "tools" / "songs" / "fixtures" / "suno-playlist-2026-09-06.json"
 PLAYLIST_API = (
     "https://studio-api.prod.suno.com/api/playlist/ac533aa1-6688-4901-833a-ec792bb21e87/?page=1"
 )
 NULL_UUID = "00000000-0000-0000-0000-000000000000"
+FETCH_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json",
+    "Referer": "https://suno.com/",
+    "Origin": "https://suno.com",
+}
 
 
 def _norm_title(title: str) -> str:
@@ -40,7 +50,8 @@ def _norm_title(title: str) -> str:
 
 def _load_snapshot(path: Path | None, *, fetch: bool) -> dict:
     if fetch:
-        with urllib.request.urlopen(PLAYLIST_API, timeout=60) as resp:  # noqa: S310
+        req = urllib.request.Request(PLAYLIST_API, headers=FETCH_HEADERS)
+        with urllib.request.urlopen(req, timeout=60) as resp:  # noqa: S310
             data = json.loads(resp.read().decode("utf-8"))
         return {"playlist": data, "source": PLAYLIST_API}
     fixture_path = path or DEFAULT_FIXTURE

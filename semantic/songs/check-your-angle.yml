@@ -1,0 +1,47 @@
+slug: check-your-angle
+title: Check Your Angle
+shortDescription: |-
+  East Coast alt hip-hop cypher: three rappers and a robot argue that the same picture changes with the frame—check your angle.
+longDescription: |-
+  Rapid trade verses and confidence-meter comedy stage finite perspective as practice, not defeat. Charts, tiny samples, and courtroom-in-the-head jokes show how certainty arrives early and evidence arrives late. What We Cannot See and Trust Beyond Similarity anchor the demand to move your head; How Meaning Moves fits intent assigned before listening finishes. Patterns dissent-is-welcomed and understanding-circulates appear when three readings of one room all survive the robot’s revision.
+creatorNames:
+- Kevin Steffensen
+lyricsPath: corpus/songs/check-your-angle.md
+lyricLanguages:
+- en
+relatedConcepts:
+- finite-perspective
+- bias
+- interpretation
+- judgment
+relatedPatterns:
+- dissent-is-welcomed
+- contact-keeps-the-read-open
+- understanding-circulates
+relatedBooks:
+- what-we-cannot-see
+- trust-beyond-similarity
+- how-meaning-moves
+recordings:
+- platform: suno
+  externalId: ff3cfac3-c735-400d-956e-f948990445b2
+  primary: true
+  recordingTitle: Check Your Angle
+  createdAt: '2026-09-06T00:17:57.668Z'
+  durationSeconds: 215.0
+  modelName: chirp-auk
+  modelVersion: v4.5-all
+  task: gen
+  isRemix: false
+  styleTags: |-
+    High-energy old-school East Coast alternative hip-hop with a gritty Brooklyn feel, fused with electro, techno, funk, punk energy, and sample-heavy production. Three distinct male rappers rapidly trade lines, interrupt each other, shout responses, and finish each other’s phrases with playful comic timing. Crunchy breakbeats, distorted bass, turntable scratches, drum-machine loops, funky guitar stabs, analog synth bleeps, robotic vocoder voices, glitch effects, chopped samples, and abrupt stop-start transitions. Fast, sarcastic, witty, chaotic, and slightly absurd rather than aggressive. Verses should feel loose and conversational; hooks should be big group shouts. A robotic voice confidently interrupts throughout and gradually becomes less certain. Raw, energetic, weird, clever, and unpredictable.
+generation:
+  authoredPrompt: |-
+    High-energy old-school East Coast alternative hip-hop with a gritty Brooklyn feel, fused with electro, techno, funk, punk energy, and sample-heavy production. Three distinct male rappers rapidly trade lines, interrupt each other, shout responses, and finish each other’s phrases with playful comic timing. Crunchy breakbeats, distorted bass, turntable scratches, drum-machine loops, funky guitar stabs, analog synth bleeps, robotic vocoder voices, glitch effects, chopped samples, and abrupt stop-start transitions. Fast, sarcastic, witty, chaotic, and slightly absurd rather than aggressive. Verses should feel loose and conversational; hooks should be big group shouts. A robotic voice confidently interrupts throughout and gradually becomes less certain. Raw, energetic, weird, clever, and unpredictable.
+  authoredPromptSource: suno-playlist
+  authoredPromptRetrievedAt: '2026-09-06'
+editorialStatus: provisional
+grounding:
+  type: original_synthesis
+  note: |-
+    After Certainty song composition; lyrics and style prompt ingested from the Suno playlist snapshot without rewriting existing song entries.
